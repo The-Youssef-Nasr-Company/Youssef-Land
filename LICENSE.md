@@ -1,6 +1,6 @@
-MIT License
+# MIT License
 
-Copyright (c) 2021 The Youssef Nasr Company
+Copyright (C) 2021 The Youssef Nasr Company
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
