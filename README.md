@@ -4,13 +4,13 @@ Welcome to Youssef Land!
 
 ## Youssef Land Community Guidelines
 
-We appreciate these things :white_check_mark: :
+We appreciate these things ✅:
 
 * No memes
 * Viral animation except the official version of Animator vs. Animation 5 and Lush Caves (made by Alan Becker)
 * Good words
 
-We don't appreciate these things :x: :
+We don't appreciate these things ❌:
 
 * TheKittenKing's Discord
   * Curse words
@@ -19,4 +19,4 @@ We don't appreciate these things :x: :
 * Bad videos
 * Ads
 
-<!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land. -->
+<!-- Be aware that curse words violate Youssef Land ❌. -->
