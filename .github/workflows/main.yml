@@ -34,14 +34,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-      
-      # First interaction
-      - name: First interaction
-        uses: actions/first-interaction@v1.1.0
-  with:
-    # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
-    runs-on: |
-    # Comment to post on an individual's first issue
-    needs: |
-    # Comment to post on an individual's first pull request
-    permissions: |
