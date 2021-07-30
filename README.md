@@ -19,4 +19,4 @@ We don't appreciate these things ❌:
 * Bad videos
 * Ads
 
-<!-- Be aware that curse words violate Youssef Land ❌. -->
+<!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land ❌. -->
