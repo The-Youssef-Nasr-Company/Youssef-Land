@@ -18,3 +18,5 @@ We don't appreciate these things :x: :
 * Memes
 * Bad videos
 * Ads
+
+<!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land. -->
