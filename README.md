@@ -13,7 +13,7 @@ We appreciate these things :white_check_mark: :
 We don't appreciate these things :x: :
 
 * TheKittenKing's Discord
-* Curse words
+  * Curse words
 * Animator vs. Animation 5 (official) and Lush Caves (Animation vs. Minecraft Shorts) made by Alan Becker
 * Memes
 * Bad videos
