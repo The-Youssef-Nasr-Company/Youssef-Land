@@ -10,5 +10,7 @@ We don't appreciate these things:
 
 * TheKittenKing's Discord
 * Curse words
-* Animation vs. Animation 5 (official) made by Alan Becker
+* Animatior vs. Animation 5 (official) made by Alan Becker
 * Memes
+* Bad videos
+* Ads
