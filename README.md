@@ -39,5 +39,10 @@ Here's a code example from BASIC:
 10 PRINT "WELCOME TO YOUSSEF LAND! AS YOU HAVE CHOSEN THIS BASIC CODE EXAMPLE, LET US GET STARTED!"
 20 END
 ```
-Then type `LIST` in any type of system that supports BASIC to see the code example from us.
+Then type `LIST` in any type of system that supports BASIC to check the code example from us.
 Type `RUN` to run the BASIC code example.
+
+Here's a code example from Python:
+```
+print("Welcome to Youssef Land! As you have chosen this Python code example, let us get started!")
+```
