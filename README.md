@@ -36,7 +36,7 @@ Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-t
 Here's a code example from BASIC:
 
 ```
-10 PRINT "WELCOME TO YOUSSEF LAND"
+10 PRINT "WELCOME TO YOUSSEF LAND! AS YOU HAVE CHOSEN THIS BASIC CODE EXAMPLE, LET US GET STARTED!"
 20 END
 ```
 Then type `LIST` in any type of system that supports BASIC to see the code example from us.
