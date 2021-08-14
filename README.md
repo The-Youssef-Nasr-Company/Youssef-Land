@@ -27,4 +27,4 @@ Don't forget, the visual Microsoft C# compiler version is 2.9.0.63208.
 
 Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <div>The icon he downloaded was made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.</div>
 
-Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](medium.com)!
+Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](https://medium.com)!
