@@ -44,5 +44,5 @@ Type `RUN` to run the BASIC code example.
 
 Here's a code example from Python:
 ```
-print("Welcome to Youssef Land! As you have chosen this Python code example, let us get started!")
+print("Welcome to Youssef Land! As you have chosen this Python code example, let's get started!")
 ```
