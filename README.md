@@ -47,7 +47,7 @@ Here's a code example from Python:
 print("Welcome to Youssef Land! As you have chosen this Python code example, let's get started!")
 ```
 
-### Minecraft Fun Facts
+## Minecraft Fun Facts
 
 This `README.md` includes fun facts about Minecraft with cheats turned on!
 
