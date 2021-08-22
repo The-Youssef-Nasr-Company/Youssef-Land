@@ -2,7 +2,7 @@
 
 Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.md` we are in. You really will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). 
 
-# Youssef Land Rules & Community Guidelines
+## Youssef Land Rules & Community Guidelines
 
 We appreciate these things ✅:
 
@@ -22,7 +22,7 @@ We don't appreciate these things ❌:
 
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land ❌. -->
 
-# Youssef Land News
+## Youssef Land News
 
 We have made our first C# program. Rextester permanent URL goes here: https://rextester.com/DGPM21077 (made in Egypt 2021)
 
@@ -32,7 +32,7 @@ Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <di
 
 Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](https://medium.com)!
 
-## Code Examples (BASIC, Python, MATLAB and more!)
+### Code Examples (BASIC, Python, MATLAB and more!)
 
 Here's a code example from BASIC:
 
@@ -48,7 +48,7 @@ Here's a code example from Python:
 print("Welcome to Youssef Land! As you have chosen this Python code example, let's get started!")
 ```
 
-## Minecraft Fun Facts
+### Minecraft Fun Facts
 
 This `README.md` includes fun facts about Minecraft with cheats turned on!
 
