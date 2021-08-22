@@ -9,6 +9,7 @@ We appreciate these things ✅:
 * No memes
 * Viral animation except the official version of Animator vs. Animation 5 and Lush Caves (made by Alan Becker)
 * Good words
+  * No curse words
 
 We don't appreciate these things ❌:
 
