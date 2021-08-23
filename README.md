@@ -55,3 +55,7 @@ This `README.md` includes fun facts about Minecraft with cheats turned on!
 For example, type `/give <username:random> command_block 64` on Minecraft Chat to get 64 Command Blocks as typed in the valid syntax with the permission of an __Operator__! These Command Blocks can get you to experimenting!
 
 You can use `/weather <weather:thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who to where>` can transport you to your friend as typed in the valid syntax with any type of permission!
+
+#### Minecraft Bugs
+
+There were unamazing bugs on Minecraft that must be reported, but where to find the _dashboard_? To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type `bugs.mojang.com` while in `New Tab`.
