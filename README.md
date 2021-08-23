@@ -74,4 +74,4 @@ The only bugs found in Youssef Land is shown here:
 * Put Open Sans and Sans Serif CSS action problem `(In progress...)`
 
 ###### That's all for Youssef Land!
-See you soon!
+See you soon! ✨
