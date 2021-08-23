@@ -73,5 +73,6 @@ The only bugs found in Youssef Land is shown here:
 * Create C/C++ with CMake action fail `(Successfully fixed!)`
 * Put Open Sans and Sans Serif CSS action problem `(In progress...)`
 
-###### <!--END:--> That's all for Youssef Land!
-See you soon! ✨
+# <!--2--> Warning
+
+If you get too much errors on screen you'll get a Blue Screen that warns you that Windows has been shut down to prevent damage from your computer. You can use <kbd>F8</kbd> to use Safe Mode to get the bluescreening out of Windows' way.
