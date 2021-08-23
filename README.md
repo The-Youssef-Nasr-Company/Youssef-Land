@@ -63,3 +63,12 @@ There were __uncool__ bugs on Minecraft that must be reported, but where to find
 ##### <!--1.2.2.1.1--> Jira can help!
 
 To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type `bugs.mojang.com` while in `New Tab`.
+
+## <!--1.3--> Youssef Land Bugs
+
+The only bugs found in Youssef Land is shown here:
+
+* Create Python package action fail `(Successfully fixed!)`
+* Create Java package with Apache Maven action fail `(Successfully fixed!)`
+* Create C/C++ with CMake action fail `(Successfully fixed!)`
+* Put Open Sans and Sans Serif CSS action problem `(In progress...)`
