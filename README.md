@@ -72,3 +72,6 @@ The only bugs found in Youssef Land is shown here:
 * Create Java package with Apache Maven action fail `(Successfully fixed!)`
 * Create C/C++ with CMake action fail `(Successfully fixed!)`
 * Put Open Sans and Sans Serif CSS action problem `(In progress...)`
+
+###### That's all for Youssef Land!
+See you soon!
