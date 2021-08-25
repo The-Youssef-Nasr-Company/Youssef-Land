@@ -28,6 +28,8 @@ We don't appreciate these things ❌:
 
 ## <!--2.2--> Youssef Land News
 
+__This is the news channel of Youssef Land called Youssef Land News__.
+
 We have made our first C# program. Rextester permanent URL goes here: https://rextester.com/DGPM21077 (made in Egypt 2021)
 
 Don't forget, the visual Microsoft C# compiler version is 2.9.0.63208.
