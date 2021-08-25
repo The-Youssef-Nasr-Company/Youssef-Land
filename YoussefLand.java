@@ -1,3 +1,5 @@
+% You have been chosen to become a member if you don't refuse to our rules.
+
 function YoussefLand; {
   System.print.In("Welcome to Youssef Land!");
   System.print.In("You have been chosen to become a member of Youssef Land using this Java file!");
