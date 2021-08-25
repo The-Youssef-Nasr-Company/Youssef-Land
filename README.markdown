@@ -79,6 +79,10 @@ The only bugs found in Youssef Land is shown here:
 * Create C/C++ with CMake action fail `(Successfully fixed!)`
 * Put Open Sans and Sans Serif CSS action problem `(In progress...)`
 
+## <!--2.4--> Windows Bugs
+
+Windows had a bug on the taskbar, and no Blue Screen came. I think that was good though.
+
 # <!--3.--> Warning
 
 If you get too much errors on screen you'll get a Blue Screen which warns you that `Windows has been shut down to prevent damage from your computer`.
