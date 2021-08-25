@@ -81,4 +81,8 @@ The only bugs found in Youssef Land is shown here:
 
 # <!--3.--> Warning
 
-If you get too much errors on screen you'll get a Blue Screen that warns you that Windows has been shut down to prevent damage from your computer. You can use <kbd>Escape</kbd> after letting the computer show you the message `Press Esc to go to Startup Settings`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
+If you get too much errors on screen you'll get a Blue Screen which warns you that `Windows has been shut down to prevent damage from your computer`.
+
+## <!--3.1--> Help is on the way!
+
+You can use <kbd>Escape</kbd> after letting the computer show you the message `Press Esc to go to Startup Settings`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
