@@ -102,6 +102,6 @@ Of course! We have __4 sponsor links__ excluding other services that aren't our 
 > I've made a sponsor to the project, so...
 
 YES!!!!!! You've finnaly supported Youssef Land!
-> Who? > What?!
+> What?!
 
 OF COURSE!!!!!!!!!!!
