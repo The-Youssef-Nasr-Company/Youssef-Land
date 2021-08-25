@@ -90,3 +90,17 @@ If you get too much errors on screen you'll get a Blue Screen which warns you th
 ## <!--3.1--> Help is on the way!
 
 You can use <kbd>Escape</kbd> after letting the computer show you the message `Press Esc to go to Startup Settings`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
+
+# <!--4.--> Youssef Land FAQ
+
+So, this is the final heading, the FAQ of Youssef Land, _am I right_?
+
+> Hey, do you have any sponsor button????
+
+Of course! We have __4 sponsor links__ excluding other services that aren't our partners.
+
+> I've made a sponsor to the project, so...
+
+YES!!!!!! You've finnaly supported Youssef Land!
+>> What?!
+OF COURSE!!!!!!!!!!!
