@@ -105,3 +105,7 @@ YES!!!!!! You've finnaly supported Youssef Land!
 > What?!
 
 OF COURSE!!!!!!!!!!!
+
+> Nothing happens with `cmd` on the Makefile...
+
+?! That's not so funny...
