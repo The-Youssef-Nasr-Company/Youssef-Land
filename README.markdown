@@ -1,6 +1,3 @@
-![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
-
-
 # <!--1.--> Welcome to Youssef Land
 
 Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB).
@@ -113,3 +110,6 @@ OF COURSE!!!!!!!!!!!
 > Nothing happens with `cmd` on the Makefile...
 
 ?! That's not so funny...
+
+
+![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
