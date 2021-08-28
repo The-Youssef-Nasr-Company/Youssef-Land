@@ -6,4 +6,4 @@ function YoussefLand(); {
          System.print.In("Because you are chosen to become a member on our side.");
 }
 
-String YoussefLand = 100 + 10000000000000 + 1000000000000
+var YoussefLand = 100 + 10000000000000 + 1000000000000
