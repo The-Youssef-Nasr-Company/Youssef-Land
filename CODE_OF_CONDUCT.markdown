@@ -24,7 +24,7 @@ The following behaviors are expected and requested of all community members:
  * Exercise consideration and respect in your speech and actions.
  * Attempt collaboration before conflict.
  * Refrain from demeaning, discriminatory, or harassing behavior and speech.
- * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations in the repository made to create this `CODE_OF_CONDUCT.md`, even if they seem inconsequential.
+ * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations in the repository made to create this `CODE_OF_CONDUCT.markdown`, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
  * Don't say curse words; or else Youssef Land will kick you out of this repository and you will go to a repository that wants & includes curse words
 
