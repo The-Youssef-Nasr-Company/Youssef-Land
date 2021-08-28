@@ -40,3 +40,6 @@ jobs:
           echo automatically!
           echo Forks not
           echo included.
+      # Runs a Youssef Land script
+      - name: Run a Youssef Land script
+        run: echo Welcome to Youssef Land!
