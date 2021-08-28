@@ -4,7 +4,7 @@ Welcome to Youssef Land! Youssef Land is a place full of fun files and the `READ
 
 # <!--2.--> Youssef Land Info
 
-We are the masters of __code__, __creating hackathons__, _text_, __Python__ & __Java/JavaScript__.
+We are the masters of __code__, __creating hackathons__, _text_, __Python__ & __Java/JavaScript__ We aren't the masters of __JSON__ anyway.
 
 ## <!--2.1--> Youssef Land Rules & Community Guidelines
 
