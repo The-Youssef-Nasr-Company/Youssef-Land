@@ -38,3 +38,5 @@ jobs:
           echo we are confirming
           echo a commit
           echo automatically!
+          echo Forks not
+          echo included.
