@@ -57,12 +57,21 @@ print("Welcome to Youssef Land! As you have chosen this Python code example, let
 Here's 2 code examples from JavaScript/Java:
 
 ```javascript
-alert('Welcome to Youssef Land!');
+alert("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
 ```
 ```java
 function YoussefLand(); {
   System.print.In("Welcome to Youssef Land! As you have chosen this Java code example, let's get started!");
 }
+```
+
+Here's a code example from Make:
+
+```makefile
+YoussefLandMaker: cmd make Youssef-Land
+cmd: YoussefLandMaker
+make: cmd
+Youssef-Land: make
 ```
 
 ### <!--2.2.2--> Minecraft Fun Facts
