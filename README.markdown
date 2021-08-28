@@ -1,6 +1,6 @@
 # <!--1.--> Welcome to Youssef Land
 
-Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.md` we are in. You really will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB).
+Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB).
 
 # <!--2.--> Youssef Land Info
 
