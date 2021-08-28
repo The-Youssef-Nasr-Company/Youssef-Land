@@ -62,4 +62,5 @@ jobs:
           echo automatically merge the
           echo PR, then it will
           echo be commited like
-          echo you always wanted to!
+          echo you always wanted to
+          echo be with!
