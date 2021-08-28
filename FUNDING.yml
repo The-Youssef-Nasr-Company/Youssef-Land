@@ -1,6 +1,6 @@
 # These are supported funding model platforms
 
-github: # Sorry, but @tpope is not going to be thinking you're a sponsor in this project
+github: [octocat, surftocat]
 patreon: alanbecker
 open_collective: # Replace with a single Open Collective username
 ko_fi: # Sorry, but it's Ko-fi itself
