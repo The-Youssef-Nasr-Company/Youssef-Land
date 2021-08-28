@@ -101,8 +101,8 @@ The only bugs found in Youssef Land is shown here:
 
 The table of bugs in Youssef Land is shown here:
 
-Bug name | Version | Type | Bug type | Action type | Labels |
--------- | ------- | ---- | -------- | ----------- | ------ |
+Bug name | Version | Type | Bug type | Action type | Issue labels |
+-------- | ------- | ---- | -------- | ----------- | ------------ |
 Create Python package action fail | Youssef Land for Windows 10 | Fixed | Bad | Python Package creation | actions, invalid, triage
 
 ## <!--2.4--> Windows Bugs
