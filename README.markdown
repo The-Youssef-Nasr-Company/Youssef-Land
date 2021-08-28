@@ -57,9 +57,7 @@ print("Welcome to Youssef Land! As you have chosen this Python code example, let
 Here's 2 code examples from JavaScript/Java:
 
 ```javascript
-function YoussefLand(); {
-  System.print.In("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
-}
+alert('Welcome to Youssef Land!');
 ```
 ```java
 function YoussefLand(); {
