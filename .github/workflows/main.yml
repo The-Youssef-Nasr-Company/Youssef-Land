@@ -43,3 +43,23 @@ jobs:
       # Runs a Youssef Land script
       - name: Run a Youssef Land script
         run: echo Welcome to Youssef Land!
+      # Runs a full Youssef Land script
+      - name: Run a full Youssef Land script
+        run: |
+          echo Welcome to Youssef Land!
+          echo We are triggering a
+          echo commit confirmation
+          echo automatically for
+          echo being successful.
+          echo You can get it
+          echo if you are
+          echo requesting
+          echo a commit
+          echo and one of our
+          echo organizers will commit it once he will
+          echo make a good review and
+          echo the repo system will
+          echo automatically merge the
+          echo PR, then it will
+          echo be commited like
+          echo you always wanted to!
