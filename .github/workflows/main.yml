@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          echo This is why
+          echo we are confirming
+          echo a commit
+          echo automatically!
