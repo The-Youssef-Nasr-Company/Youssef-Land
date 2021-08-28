@@ -103,7 +103,7 @@ The table of bugs in Youssef Land is shown here:
 
 Bug name | Version | Type | Bug type | Action type | Labels |
 -------- | ------- | ---- | -------- | ----------- | ------ |
-Create Python package action fail | Youssef Land for Windows 10 | Epic (Fixed) | Bad | Python Package creation | actions, invalid, triage
+Create Python package action fail | Youssef Land for Windows 10 | Epic (Fixed) | Fixed | Python Package creation | actions, invalid, triage
 
 ## <!--2.4--> Windows Bugs
 
