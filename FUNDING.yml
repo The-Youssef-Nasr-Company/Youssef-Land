@@ -1,9 +1,9 @@
 # These are supported funding model platforms
 
-github: tpope
+github: # Sorry, but @tpope is not going to be one of your sponsors in this project
 patreon: alanbecker
 open_collective: # Replace with a single Open Collective username
-ko_fi: ko-fi
+ko_fi: # Sorry, but it's Ko-fi itself
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 liberapay: # Replace with a single Liberapay username
