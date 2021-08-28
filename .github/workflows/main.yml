@@ -64,3 +64,8 @@ jobs:
           echo you always wanted to
           echo be with!
           echo Forks required BUT not included.
+      # Creates a confirmation script
+      - name: Create a confirmation script
+        run: |
+          echo We are confirming a commit/change,
+          echo because it's unconfirmed.
