@@ -99,6 +99,12 @@ The only bugs found in Youssef Land is shown here:
 * Create C/C++ with CMake action fail `(Successfully fixed!)`
 * Put Open Sans and Sans Serif CSS action problem `(In progress...)`
 
+The table of bugs in Youssef Land is shown here:
+
+Bug name | Version | Type | Bug type | Action type |
+-------- | ------- | ---- | -------- | ----------- |
+Create Python package action fail | Youssef Land for Windows 10 | Epic (Fixed) | Bad | Python Package Creation
+
 ## <!--2.4--> Windows Bugs
 
 Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think that was good though.
