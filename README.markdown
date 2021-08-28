@@ -4,7 +4,7 @@ Welcome to Youssef Land! Youssef Land is a place full of fun files and the `READ
 
 # <!--2.--> Youssef Land Info
 
-We are the masters of __code__, __creating hackathons__, _text_, __Python__ & __Java/JavaScript__ We aren't the masters of __JSON__ anyway.
+We are the masters of __code__, __creating hackathons__, _text_, __Python__, __Java/JavaScript__ & __Markdown__. We aren't the masters of __JSON__ anyway.
 
 ## <!--2.1--> Youssef Land Rules & Community Guidelines
 
@@ -50,8 +50,16 @@ Then type `LIST` in any type of system that supports BASIC to check the code exa
 Type `RUN` to run the BASIC code example.
 
 Here's a code example from Python:
-```
+```python
 print("Welcome to Youssef Land! As you have chosen this Python code example, let's get started!")
+```
+
+Here's a code example from JavaScript:
+
+```javascript
+function YoussefLand(); {
+  System.print.In("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
+}
 ```
 
 ### <!--2.2.2--> Minecraft Fun Facts
@@ -85,7 +93,7 @@ Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think 
 
 # <!--3.--> Warning
 
-If you get too much errors onscreen you'll get a Blue Screen (sometimes you get a sudden hanging 8-bit beep) which warns you sometimes that Windows has been shut down to prevent damage from your computer.
+If you get too much errors onscreen in all of a sudden you'll get a Blue Screen (sometimes you get a sudden hanging 8-bit beep) which warns you sometimes that Windows has been shut down to prevent damage from your computer.
 
 ## <!--3.1--> Help is on the way!
 
