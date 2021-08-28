@@ -63,7 +63,7 @@ function YoussefLand(); {
 ```
 ```java
 function YoussefLand(); {
-  System.print.In("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
+  System.print.In("Welcome to Youssef Land! As you have chosen this Java code example, let's get started!");
 }
 ```
 
