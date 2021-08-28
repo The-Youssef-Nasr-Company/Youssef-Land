@@ -54,9 +54,14 @@ Here's a code example from Python:
 print("Welcome to Youssef Land! As you have chosen this Python code example, let's get started!")
 ```
 
-Here's a code example from JavaScript:
+Here's 2 code examples from JavaScript/Java:
 
 ```javascript
+function YoussefLand(); {
+  System.print.In("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
+}
+```
+```java
 function YoussefLand(); {
   System.print.In("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
 }
