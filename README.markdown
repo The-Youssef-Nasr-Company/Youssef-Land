@@ -110,7 +110,7 @@ __This is the final heading of this `README.markdown`, the FAQ of Youssef Land._
 
 > Hey, do you have any sponsor button????
 
-Of course! We have __4 sponsor links__ excluding other services that aren't our partners.
+Of course! We have __2 sponsor links__ excluding other services that aren't our partners.
 
 > I've made a sponsor to the project, so...
 
