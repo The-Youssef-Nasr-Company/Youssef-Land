@@ -1,6 +1,6 @@
 # <!--1.--> Welcome to Youssef Land
 
-Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB).
+Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit.
 
 # <!--2.--> Youssef Land Info
 
@@ -111,11 +111,15 @@ If you get too much errors onscreen in all of a sudden you'll get a Blue Screen 
 
 You can use <kbd>Escape</kbd> after letting the computer show you the message `Press Esc to go to Startup Settings`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
 
-# <!--4.--> Youssef Land FAQ
+# <!--4.--> Contributors of the Repo
 
-__This is the final heading of this `README.markdown`, the FAQ of Youssef Land.__
+The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/yoyomonem).
 
-> Hey, do you have any sponsor button????
+# <!--5.--> Youssef Land FAQ
+
+__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__.
+
+> Hey, do you have any __sponsor button__????
 
 Of course! We have __1 sponsor link for Patreon becoming a patron for Alan__ excluding other services that aren't our partners.
 
