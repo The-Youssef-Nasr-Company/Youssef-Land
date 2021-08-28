@@ -85,7 +85,7 @@ Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think 
 
 # <!--3.--> Warning
 
-If you get too much errors onscreen you'll get a Blue Screen (sometimes you get a sudden hanging 8-bit beep) which warns you sometimes that "Windows has been shut down to prevent damage from your computer".
+If you get too much errors onscreen you'll get a Blue Screen (sometimes you get a sudden hanging 8-bit beep) which warns you sometimes that Windows has been shut down to prevent damage from your computer.
 
 ## <!--3.1--> Help is on the way!
 
