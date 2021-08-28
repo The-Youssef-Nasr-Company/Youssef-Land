@@ -81,11 +81,11 @@ The only bugs found in Youssef Land is shown here:
 
 ## <!--2.4--> Windows Bugs
 
-Windows had a bug on the taskbar, and no Blue Screen came. I think that was good though.
+Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think that was good though.
 
 # <!--3.--> Warning
 
-If you get too much errors on screen you'll get a Blue Screen which warns you that `Windows has been shut down to prevent damage from your computer`.
+If you get too much errors onscreen you'll get a Blue Screen `(sometimes you get a sudden hanging 8-bit beep)` which warns you that `Windows has been shut down to prevent damage from your computer`.
 
 ## <!--3.1--> Help is on the way!
 
@@ -93,7 +93,7 @@ You can use <kbd>Escape</kbd> after letting the computer show you the message `P
 
 # <!--4.--> Youssef Land FAQ
 
-So, this is the final heading, the FAQ of Youssef Land, _am I right_?
+This is the final heading of this `README.markdown`, the FAQ of Youssef Land.
 
 > Hey, do you have any sponsor button????
 
