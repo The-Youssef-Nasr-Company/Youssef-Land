@@ -56,7 +56,7 @@ print("Welcome to Youssef Land! As you have chosen this Python code example, let
 
 ### <!--2.2.2--> Minecraft Fun Facts
 
-This `README.md` includes fun facts about Minecraft with cheats turned on!
+This `README.markdown` includes fun facts about Minecraft with cheats turned on and with Creative Mode on your Minecraft world!!
 
 For example, type `/give <username:random> command_block 64` on Minecraft Chat to get 64 Command Blocks as typed in the valid syntax with the permission of an __Operator__! These Command Blocks can get you to experimenting!
 
@@ -102,6 +102,7 @@ Of course! We have __4 sponsor links__ excluding other services that aren't our 
 > I've made a sponsor to the project, so...
 
 YES!!!!!! You've finnaly supported Youssef Land!
+
 > What?!
 
 OF COURSE!!!!!!!!!!!
