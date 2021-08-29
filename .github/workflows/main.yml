@@ -63,7 +63,8 @@ jobs:
           echo be commited like
           echo you always wanted to
           echo be with!
-          echo Forks required BUT not included.
+          echo Forks required to support
+          echo BUT not included.
       # Runs a confirmation script
       - name: Run a confirmation script
         run: |
@@ -78,4 +79,4 @@ jobs:
       - name: Run a Make script
         run: |
           echo The-Youssef-Nasr-Company/Youssef-Land/.github/workflows/main.yml: Permission denied.
-          echo Compilation finished with permission deny.
+          echo Compilation finished successfully.
