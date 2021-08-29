@@ -74,3 +74,8 @@ jobs:
         run: |
           echo Confirming commit/change...
           echo Commit/change confirmed!
+      # Runs a Make script
+      - name: Run a Make script
+        run: |
+          echo /.github/workflows/main.yml: Permission denied.
+          echo Compilation finished with permission deny.
