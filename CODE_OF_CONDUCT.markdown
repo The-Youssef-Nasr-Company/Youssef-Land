@@ -81,7 +81,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 ## 10. Contact info
 
 First name: Youssef
+
 Last name: Nasr
+
 Email: yoyo.monem22@gmail.com
 
 ## 11. License and attribution
