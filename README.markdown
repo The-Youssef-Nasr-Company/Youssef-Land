@@ -99,7 +99,7 @@ The only bugs found in Youssef Land is shown here:
 * Create Python package action fail `(Successfully fixed!)`
 * Create Java package with Apache Maven action fail `(Successfully fixed!)`
 * Build C/C++ with Make action fail `(Successfully fixed!)`
-* Page build: Open Sans and Sans Serif font family build CSS action problem `(In progress.../__Made by Google__)`
+* Page build: Open Sans and Sans Serif font family build CSS action problem `(In progress...)`
 
 The table of bugs in Youssef Land is shown here:
 
