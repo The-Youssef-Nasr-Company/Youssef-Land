@@ -68,4 +68,4 @@ jobs:
       - name: Create a confirmation script
         run: |
           echo We are confirming a commit/change,
-          echo because it's unconfirmed.
+          echo because it is unconfirmed.
