@@ -1,9 +1,12 @@
-function YoussefLand(); {
-         System.print.In("You are using an Youssef Land actual JavaScript file (*.js).");
-         System.print.In("This JavaScript file was made by Youssef.");
-         System.print.In("JavaScript was made by Oracle and was marked as an Java update. If you want this language Youssef is using, try grabbing JavaScript's website.");
-         System.print.In("This is actual.");
-         System.print.In("Because you are chosen to become a member on our side.");
+function YoussefLand(YoussefLand){
+
+         alert("You are using an Youssef Land actual JavaScript file (*.js).");
+         alert("This JavaScript file was made by Youssef.");
+         alert("JavaScript was made by Oracle and was marked as an Java update. If you want this language Youssef is using, try grabbing JavaScript's website.");
+         alert("This is actual.");
+         alert("Because you are chosen to become a member on our side.");
+         alert("Bye!");
+         alert("Now attempting to exit...");
 }
 
 var YoussefLand = 100 + 10000000000000 + 1000000000000
