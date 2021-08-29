@@ -69,3 +69,8 @@ jobs:
         run: |
           echo We are confirming a commit/change,
           echo because it is unconfirmed.
+      # Runs a confirming script
+      - name: Run a confirming script
+        run: |
+          echo Confirming commit/change...
+          echo Commit/change confirmed!
