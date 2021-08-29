@@ -108,7 +108,7 @@ Bug name | Version | Type | Bug type | Action type | Issue labels |
 Create Python package action fail | Youssef Land for Windows NT | Fixed | Bad | Python Package creation | actions
 Create Java package with Apache Maven action fail | Youssef Land for Windows 10 | Fixed | Bad | Java Package creation with Apache Maven | None
 Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed | Bad | C/C++ Build with Make | None
-Page build: Open Sans and Sans Serif font family build CSS problem | In progress | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | None
+Page build: Open Sans and Sans Serif font family build CSS problem | Youssef Land for Windows 10 | In progress | Bad | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__
 
 ## <!--2.4--> Windows Bugs
 
