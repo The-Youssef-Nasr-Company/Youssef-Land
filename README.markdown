@@ -121,7 +121,7 @@ You can use <kbd>Escape</kbd> after letting the computer show you the message `P
 
 # <!--4.--> Contributors of the Repo
 
-The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/yoyomonem).
+The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/mandomonem).
 
 # <!--5.--> Youssef Land FAQ
 
