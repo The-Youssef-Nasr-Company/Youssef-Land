@@ -88,7 +88,7 @@ You can use `/weather <weather:thunder:clear:rain>` to change the weather as typ
 
 There were __uncool__ bugs on Minecraft that must be reported, but where to find the _dashboard_?
 
-##### <!--1.2.2.1.1--> Jira can help!
+##### <!--2.2.2.1.1--> Jira can help!
 
 To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type `bugs.mojang.com` while in `New Tab`.
 
@@ -99,7 +99,7 @@ The only bugs found in Youssef Land is shown here:
 * Create Python package action fail `(Successfully fixed!)`
 * Create Java package with Apache Maven action fail `(Successfully fixed!)`
 * Build C/C++ with Make action fail `(Successfully fixed!)`
-* Create Open Sans and Sans Serif CSS action problem `(In progress...)`
+* Page build: Open Sans and Sans Serif font family build CSS action problem `(In progress.../__Made by Google__)`
 
 The table of bugs in Youssef Land is shown here:
 
@@ -108,6 +108,7 @@ Bug name | Version | Type | Bug type | Action type | Issue labels |
 Create Python package action fail | Youssef Land for Windows NT | Fixed | Bad | Python Package creation | actions
 Create Java package with Apache Maven action fail | Youssef Land for Windows 10 | Fixed | Bad | Java Package creation with Apache Maven | None
 Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed | Bad | C/C++ Build with Make | None
+Page build: Open Sans and Sans Serif font family build CSS problem | In progress | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | None
 
 ## <!--2.4--> Windows Bugs
 
