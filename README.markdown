@@ -132,7 +132,7 @@ __This is the final heading of this `README.markdown`, the FAQ of Youssef Land__
 
 > Hey, do you have any __sponsor button__????
 
-Of course! We have __1 sponsor link for Patreon becoming a patron for Alan__ excluding other services that aren't our partners.
+Of course! We have __3 sponsor links__ excluding other services that aren't our partners.
 
 > I've made a sponsor to the project, so...
 
