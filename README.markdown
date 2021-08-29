@@ -105,10 +105,10 @@ The table of bugs in Youssef Land is shown here:
 
 Bug name | Version | Type | Bug type | Action type | Issue labels |
 -------- | ------- | ---- | -------- | ----------- | ------------ |
-Create Python package action fail | Youssef Land for Windows NT | Fixed | Bad | Python Package creation | _actions_
-Create Java package with Apache Maven action fail | Youssef Land for Windows 10 | Fixed | Bad | Java Package creation with Apache Maven | __None__
-Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed | Bad | C/C++ Build with Make | __None__
-Page build: Open Sans and Sans Serif font family build CSS problem | Youssef Land for Windows 10 | In progress | Bad | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | __None__
+Create Python package action fail | Youssef Land for Windows NT | Fixed ✅ | Bad ❌ | Python Package creation | _actions_
+Create Java package with Apache Maven action fail | Youssef Land for Windows 10 | Fixed ✅ | Bad ❌ | Java Package creation with Apache Maven | __None__
+Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed ✅ | Bad ❌ | C/C++ Build with Make | __None__
+Page build: Open Sans and Sans Serif font family build CSS problem | Youssef Land for Windows 10 | In progress | Bad ❌ | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | __None__
 
 ## <!--2.4--> Windows Bugs
 
