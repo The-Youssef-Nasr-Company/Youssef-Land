@@ -98,8 +98,8 @@ The only bugs found in Youssef Land is shown here:
 
 * Create Python package action fail `(Successfully fixed!)`
 * Create Java package with Apache Maven action fail `(Successfully fixed!)`
-* Create C/C++ with Make action fail `(Successfully fixed!)`
-* Put Open Sans and Sans Serif CSS action problem `(In progress...)`
+* Build C/C++ with Make action fail `(Successfully fixed!)`
+* Create Open Sans and Sans Serif CSS action problem `(In progress...)`
 
 The table of bugs in Youssef Land is shown here:
 
@@ -107,6 +107,7 @@ Bug name | Version | Type | Bug type | Action type | Issue labels |
 -------- | ------- | ---- | -------- | ----------- | ------------ |
 Create Python package action fail | Youssef Land for Windows NT | Fixed | Bad | Python Package creation | actions
 Create Java package with Apache Maven action fail | Youssef Land for Windows 10 | Fixed | Bad | Java Package creation with Apache Maven | None
+Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed | Bad | C/C++ Build with Make | None
 
 ## <!--2.4--> Windows Bugs
 
