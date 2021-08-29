@@ -6,6 +6,7 @@
 
 int results(int user_input) {
     std::cout << "Thank you for typing a number between 1 & 100. The number you entered is: "<< user_input << '\n';
+    std::cout << "Now attempting to receive return signal...\n";
 	return 0;
 }	
 
