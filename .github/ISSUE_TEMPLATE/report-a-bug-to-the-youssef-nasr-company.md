@@ -1,7 +1,7 @@
 ---
 name: Report a bug to The Youssef Nasr Company
 about: Create a report to help us improve Youssef Land
-title: That bug wasn't good...
+title: 'BUG: '
 labels: bug
 assignees: yoyomonem, mandomonem
 

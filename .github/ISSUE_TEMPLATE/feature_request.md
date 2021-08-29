@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for Youssef Land so we will solve the problem
-title: ''
+title: 'FEATURE REQUEST: '
 labels: ''
-assignees: ''
+assignees: yoyomonem, mandomonem
 
 ---
 
