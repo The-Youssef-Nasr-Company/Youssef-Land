@@ -78,7 +78,7 @@ Youssef-Land: make
 
 ### <!--2.2.2--> Minecraft Fun Facts
 
-This `README.markdown` includes fun facts about Minecraft with cheats turned on and with Creative Mode on your Minecraft world!!
+This `README.markdown` includes fun facts about Minecraft with cheats turned on and with Creative Mode on your Minecraft world!
 
 For example, type `/give <username:random> command_block 64` on Minecraft Chat to get 64 Command Blocks as typed in the valid syntax with the permission of an __Operator__! These Command Blocks can get you to experimenting!
 
