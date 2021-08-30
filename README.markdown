@@ -167,7 +167,7 @@ delete <filename>
 You can install Skype like so:
 
 ```shell
-sudo apt-get install skype
+sudo: apt-get install skype
 ```
 
 
