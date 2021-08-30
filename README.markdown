@@ -146,5 +146,12 @@ OF COURSE!!!!!!!!!!!
 
 ?! That's not so funny...
 
+> How can I create a file?
+
+You can create a file like so:
+
+1. `create <filename>`
+2. `File <filename> created.`
+
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
