@@ -152,7 +152,14 @@ You can create a file like so:
 
 ```shell
 create <filename>
-File <filename> created.
+```
+
+> How can I delete a file?
+
+You can delete a file like so:
+
+```shell
+delete <filename>
 ```
 
 
