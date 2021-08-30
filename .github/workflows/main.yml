@@ -78,5 +78,10 @@ jobs:
       # Runs a Make script
       - name: Run a Make script
         run: |
-          echo The-Youssef-Nasr-Company/Youssef-Land/.github/workflows/main.yml: Permission denied.
+          echo The-Youssef-Nasr-Company/Youssef-Land/Makefile: Permission denied.
           echo Compilation finished successfully.
+      # Runs a C++ script
+      - name: Run a C++ script
+        run: |
+           echo You are commanded to be inside
+           echo Youssef Land.
