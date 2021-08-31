@@ -167,12 +167,12 @@ $ delete <filename>
 You can install Skype like so for Ubuntu:
 
 ```shell
-$ sudo: apt-get install skype
+$ sudo apt-get install skype
 ```
 For Archlinux:
 
 ```shell
-$ sudo: pacman -S base-devel skype
+$ sudo pacman -S base-devel skype
 ```
 
 
