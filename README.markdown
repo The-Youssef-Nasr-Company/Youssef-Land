@@ -151,7 +151,7 @@ OF COURSE!!!!!!!!!!!
 You can create a file like so:
 
 ```shell
-create <filename>
+$ create <filename>
 ```
 
 > How can I delete a file?
@@ -159,7 +159,7 @@ create <filename>
 You can delete a file like so:
 
 ```shell
-delete <filename>
+$ delete <filename>
 ```
 
 > How can I install Skype?
@@ -167,12 +167,12 @@ delete <filename>
 You can install Skype like so for Ubuntu:
 
 ```shell
-sudo: apt-get install skype
+$ sudo: apt-get install skype
 ```
 For Archlinux:
 
 ```shell
-sudo: pacman -S base-devel skype
+$ sudo: pacman -S base-devel skype
 ```
 
 
