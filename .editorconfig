@@ -1,0 +1,3 @@
+root=true
+[*.{cs,c,h,cpp,hpp,m,md,py}]
+indent_style=tab
