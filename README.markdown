@@ -97,9 +97,11 @@ _This will be italic_
 
 You can [link to Google](https://google.com)
 
-| You can make tables |
-| ------------------- |
+You can make tables |
+------------------- |
 as well |
+
+`This is an command`
 ```
 
 
