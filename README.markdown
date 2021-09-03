@@ -76,7 +76,7 @@ make: cmd
 Youssef-Land: make
 ```
 
-#### <!--2.2.1.1--> Text Code Examples (Markdown & reCONSTRUCTUREDText)
+#### <!--2.2.1.1--> Text Code Examples (Markdown only)
 
 Here's a text code example from Markdown:
 
