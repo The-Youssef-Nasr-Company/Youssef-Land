@@ -25,3 +25,4 @@
 *.h diff=cheader
 *.hpp diff=cppheader
 *.py diff=python
+*.rst diff=reconstructuredtext
