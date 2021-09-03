@@ -14,7 +14,7 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 # Standard to GitHub
-*.md diff=asmarkdown
+*.md diff=markdown
 *.markdown diff=markdown
 *.txt diff=astextplain
 *.cs diff=csharp
@@ -22,3 +22,5 @@
 *.cpp diff=cpp
 *Makefile diff=make
 *.m diff=matlab
+*.h diff=cheader
+*.hpp diff=cppheader
