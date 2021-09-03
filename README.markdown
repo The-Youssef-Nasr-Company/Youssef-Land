@@ -169,11 +169,6 @@ You can install Skype like so for Ubuntu:
 ```shell
 $ sudo apt-get install skype
 ```
-For Archlinux:
-
-```shell
-$ sudo pacman -S base-devel skype
-```
 
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
