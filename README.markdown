@@ -153,7 +153,7 @@ You can use <kbd>Escape</kbd> after letting the computer show you the message `P
 
 # <!--4.--> Contributors of the Repo
 
-The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/mandomonem).
+The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/mandomonem). [@tpope](https://github.com/tpope) was invited to both this repo and the organisation in order to create Vim plugins for the organisation.
 
 # <!--5.--> Youssef Land FAQ
 
