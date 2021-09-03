@@ -160,7 +160,7 @@ The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem
 
 # <!--5.--> Youssef Land FAQ
 
-__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__.
+__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not because the `README.markdown` was having a new header__.
 
 > Hey, do you have any __sponsor button__????
 
@@ -202,5 +202,9 @@ You can install Skype like so for Ubuntu:
 $ sudo apt-get install skype
 ```
 
+
+# Licensed by [Nintendo](https://nintendo.com)
+
+This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
