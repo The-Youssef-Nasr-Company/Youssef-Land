@@ -13,4 +13,12 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-data/OPL-3_FM_128M.sf2 filter=lfs diff=lfs merge=lfs -text
+# Standard to GitHub
+*.md diff=asmarkdown
+*.markdown diff=markdown
+*.txt diff=astextplain
+*.cs diff=csharp
+*.c diff=c
+*.cpp diff=cpp
+*Makefile diff=make
+*.m diff=matlab
