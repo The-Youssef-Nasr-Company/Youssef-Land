@@ -2,7 +2,7 @@
 
 [![Commits & Changes CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml) [![Mark stale issues and pull requests CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml) [#11](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/discussions/11)
 
-Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit.
+Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit on the __global__ _[GitHub](https://github.com)_.
 
 # <!--2.--> Youssef Land Info
 
@@ -160,7 +160,7 @@ The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem
 
 # <!--5.--> Youssef Land FAQ
 
-__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not because the `README.markdown` was having a new header__.
+__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not the final heading because the `README.markdown` was having a new header__.
 
 > Hey, do you have any __sponsor button__????
 
@@ -203,7 +203,7 @@ $ sudo apt-get install skype
 ```
 
 
-# Licensed by [Nintendo](https://nintendo.com)
+# <!--6--> Licensed by [Nintendo](https://nintendo.com)
 
 This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
 
