@@ -76,6 +76,33 @@ make: cmd
 Youssef-Land: make
 ```
 
+#### <!--2.2.1.1--> Text Code Examples (Markdown & reCONSTRUCTUREDText)
+
+Here's a text code example from Markdown:
+
+```markdown
+__This will be bold__
+**This will also be bold**
+
+_This will be italic_
+*This will also be italic*
+
+*You can __combine__ them into __bold-italic__*
+
+1. This is number 1
+  * This is full lists
+
+- [ ] This is an task
+- [ ] This is task number 2
+
+You can [link to Google](https://google.com)
+
+| You can make tables |
+| ------------------- |
+as well |
+```
+
+
 ### <!--2.2.2--> Minecraft Fun Facts
 
 This `README.markdown` includes fun facts about Minecraft with cheats turned on and with Creative Mode on your Minecraft world!
@@ -105,10 +132,10 @@ The table of bugs in Youssef Land is shown here:
 
 Bug name | Version | Type | Bug type | Action type | Issue labels |
 -------- | ------- | ---- | -------- | ----------- | ------------ |
-Create Python package action fail | Youssef Land for Windows NT | Fixed ✅ | Bad ❌ | Python Package creation | _actions_
+Create Python package action fail | Youssef Land for Windows NT | Fixed! ✅ | Bad ❌ | Python Package creation | _actions_
 Create Java package with Apache Maven action fail | Youssef Land for Windows 10 | Fixed ✅ | Bad ❌ | Java Package creation with Apache Maven | __None__
-Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed ✅ | Bad ❌ | C/C++ Build with Make | __None__
-Page build: CSS Open Sans and Sans Serif font family build problem | Youssef Land for Windows 10 | In progress | Bad ❌ | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | __None__
+Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed! ✅ | Bad ❌ | C/C++ Build with Make | __None__
+Page build: CSS Open Sans and Sans Serif font family build problem | Youssef Land for Windows 10 | In progress... | Bad ❌ | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | __None__
 
 ## <!--2.4--> Windows Bugs
 
