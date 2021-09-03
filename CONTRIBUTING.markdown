@@ -5,3 +5,4 @@ We appreciate contributing without curse words. And we don't appreciate contribu
 - [x] Good words
 - [ ] Weapons
 - [ ] Violent Discords
+- [ ] Blocking all owners of the organisation below
