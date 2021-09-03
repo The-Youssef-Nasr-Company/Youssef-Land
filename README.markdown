@@ -123,10 +123,10 @@ To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to th
 
 The only bugs found in Youssef Land is shown here:
 
-* Create Python package action fail `(Successfully fixed!)`
-* Create Java package with Apache Maven action fail `(Successfully fixed!)`
-* Build C/C++ with Make action fail `(Successfully fixed!)`
-* Page build: CSS Open Sans and Sans Serif font family build action problem `(In progress...)`
+- [x] Create Python package action fail
+- [x] Create Java package with Apache Maven action fail
+- [x] Build C/C++ with Make action fail
+- [ ] Page build: CSS Open Sans and Sans Serif font family build action problem
 
 The table of bugs in Youssef Land is shown here:
 
