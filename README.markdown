@@ -139,6 +139,14 @@ Create Java package with Apache Maven action fail | Youssef Land for Windows 10 
 Build C/C++ with Make action fail | Youssef Land for Windows NT | Fixed! ✅ | Bad ❌ | C/C++ Build with Make | __None__
 Page build: CSS Open Sans and Sans Serif font family build problem | Youssef Land for Windows 10 | In progress... ❔❔❔ | Bad ❌ | CSS Font Family Build __(Google Fonts: Open Sans and Sans Serif)__ | __None__
 
+The command prompt of bugs is shown here:
+```shell
+Error: pytest has experienced a fatal exception whilst trying to make its best work. Stop.
+Error: Apache Maven cannot create a Java package while trying to publish it to GitHub Packages.
+Error: C/C++ & Make cannot be run due to a fatal exception while building the C/C++ program with Make. Stop.
+Error: The YAML file "main.yml" cannot confirm a commit whilst trying to make its best work for GitHub Actions. Stop.
+```
+
 ## <!--2.4--> Windows Bugs
 
 Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think that was good though.
@@ -203,7 +211,7 @@ $ sudo apt-get install skype
 ```
 
 
-# <!--6--> Licensed by [Nintendo](https://nintendo.com)
+# <!--6.--> Licensed by [Nintendo](https://nintendo.com)
 
 This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
 
