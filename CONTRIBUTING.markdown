@@ -5,4 +5,4 @@ We appreciate contributing without curse words. And we don't appreciate contribu
 - [x] Good words
 - [ ] Weapons
 - [ ] Violent Discords
-- [ ] Blocking all owners of the organisation below
+- [ ] Blocking all owners of the organisation on back of [Youssef Land](https://github.com/The-Youssef-Nasr-Company/Youssef-Land)
