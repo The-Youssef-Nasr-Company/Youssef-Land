@@ -1,3 +1,3 @@
 root=true
-[*.{cs,c,h,cpp,hpp,m,md,py,markdown}]
+[*.{cs,c,h,cpp,hpp,m,md,py,markdown,java,js}]
 indent_style=tab
