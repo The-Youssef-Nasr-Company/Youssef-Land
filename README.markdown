@@ -90,7 +90,7 @@ _This will be italic_
 *You can __combine__ them into __bold-italic__*
 
 1. This is number 1
-  * This is full lists
+  * This is bullet-listed for number 1 (known as sub-list)
 
 - [ ] This is an task
 - [ ] This is task number 2
