@@ -211,7 +211,7 @@ $ sudo apt-get install skype
 ```
 
 
-# <!--6.--> Licensed by [Nintendo](https://nintendo.com)
+# <!--6.--> Licensed by __[Nintendo](https://nintendo.com)__
 
 This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
 
