@@ -12,7 +12,7 @@ namespace Rextester
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to our first C# program!");
-			Console.WriteLine("You are on a Rextester C# program!");
+            Console.WriteLine("You are on a Rextester C# program!");
         }
     }
 }
