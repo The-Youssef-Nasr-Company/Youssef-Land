@@ -1,3 +1,4 @@
 root=true
-[*.{cs,c,h,cpp,hpp,m,md,py,markdown,java,js}]
+[*.{cs,c,h,cpp,hpp,m,md,py,markdown,java,js,bat,exe,png,com,css,jpg,bmp,xml,yml,html,ylen,yousseflandenglish}]
+[*{Makefile,CNAME}]
 indent_style=tab
