@@ -168,7 +168,7 @@ The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem
 
 ## <!--4.1--> Help us become popular by contributing!
 
-We need your __help and support__ to become the most popular company in the __WHOLE WORLD__! You can fork freely without our permission to conribute with us!
+We need your __help and support__ to become the most popular company in the __WHOLE WORLD__! You can fork this repo freely without our permission to contribute with us!
 
 ```java
 System.out.printIn("Please use your support on this repo by forking");
@@ -179,7 +179,7 @@ __Please__ _support_ us by forking
 ```
 
 ```python
-print(Please fork this repo to contribute and support us")
+print(Please fork this repo to contribute with us AND support us")
 ```
 
 # <!--5.--> Youssef Land FAQ
