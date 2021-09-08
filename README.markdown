@@ -179,7 +179,7 @@ __Please__ _support_ us by forking
 ```
 
 ```python
-print(Please fork this repo to contribute with us AND support us")
+print("Please fork this repo to contribute with us AND support us")
 ```
 
 # <!--5.--> Youssef Land FAQ
