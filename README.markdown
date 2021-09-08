@@ -174,6 +174,14 @@ We need your __help and support__ to become the most popular company in the __WH
 System.out.printIn("Please use your support on this repo by forking");
 ```
 
+```markdown
+__Please__ _support_ us by forking
+```
+
+```python
+print(Please fork this repo to contribute and support us")
+```
+
 # <!--5.--> Youssef Land FAQ
 
 __This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not the final heading because the `README.markdown` was having a new header__.
