@@ -8,7 +8,7 @@ print "We're here in Ruby now."
 
 puts "What's up?"
 
-print "Ruby is an brilliant programming lnguage."
+print "Ruby is an brilliant programming language."
 
 puts "How can I code with it?"
 
@@ -21,3 +21,7 @@ puts "*rattles Ruby program*"
 puts "OK, now I know how to code with Ruby."
 
 print "Great job!"
+
+filename = "YoussefLand.rb" programming_language = "Ruby" less_boredom = true more_fun = true less_fun = false more_boredom = false stop = false nope = false false = more_boredom true = more_fun
+
+puts "{filename} and {programming_language} are both including the same code! They're communicating with each other's {programming_language} code! The filename is 'YoussefLand', and the file extension is rb! That means it includes {programming_language} code from Ruby!"
