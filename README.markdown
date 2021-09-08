@@ -8,7 +8,11 @@ Welcome to Youssef Land! Youssef Land is a place full of fun files and the `READ
 
 We are the masters of __code__, __creating hackathons__, _text_, __Python__, __Java/JavaScript__ & __Markdown__. We aren't the masters of __JSON__ anyway.
 
-## <!--2.1--> Youssef Land Rules & Community Guidelines
+## <!--2.1--> The Story of _Markdown_
+
+As _[Markdown][df1]_ was created by [John Gruber], it was time for us to use [it][df1].
+
+## <!--2.2--> Youssef Land Rules & Community Guidelines
 
 We appreciate these things ✅:
 
@@ -28,7 +32,7 @@ We don't appreciate these things ❌:
 
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land ❌. -->
 
-## <!--2.2--> Youssef Land News
+## <!--2.3--> Youssef Land News
 
 __This is the news channel of Youssef Land called Youssef Land News__.
 
@@ -40,7 +44,7 @@ Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <di
 
 Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](https://medium.com)!
 
-### <!--2.2.1--> Code Examples (BASIC, Python, MATLAB and more!)
+### <!--2.3.1--> Code Examples (BASIC, Python, MATLAB and more!)
 
 Here's a code example from BASIC:
 
@@ -76,7 +80,7 @@ make: cmd
 Youssef-Land: make
 ```
 
-#### <!--2.2.1.1--> Text Code Examples (Markdown only)
+#### <!--2.3.1.1--> Text Code Examples (Markdown only)
 
 Here's a text code example from Markdown:
 
@@ -105,7 +109,7 @@ as well |
 ```
 
 
-### <!--2.2.2--> Minecraft Fun Facts
+### <!--2.3.2--> Minecraft Fun Facts
 
 This `README.markdown` includes fun facts about Minecraft with cheats turned on and with Creative Mode on your Minecraft world!
 
@@ -113,15 +117,15 @@ For example, type `/give <username:random> command_block 64` on Minecraft Chat t
 
 You can use `/weather <weather:thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who to where>` can transport you to your friend as typed in the valid syntax with any type of permission!
 
-#### <!--2.2.2.1--> Minecraft Bugs
+#### <!--2.3.2.1--> Minecraft Bugs
 
 There were __uncool__ bugs on Minecraft that must be reported, but where to find the _dashboard_?
 
-##### <!--2.2.2.1.1--> Jira can help!
+##### <!--2.3.2.1.1--> Jira can help!
 
 To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type `bugs.mojang.com` while in `New Tab`.
 
-## <!--2.3--> Youssef Land Bugs
+## <!--2.4--> Youssef Land Bugs
 
 The only bugs found in Youssef Land is shown here:
 
@@ -147,7 +151,7 @@ Error: C/C++ & Make cannot be run due to a fatal exception while building the C/
 Error: The YAML file "main.yml" cannot confirm a commit whilst trying to make its best work for GitHub Actions. Stop.
 ```
 
-## <!--2.4--> Windows Bugs
+## <!--2.5--> Windows Bugs
 
 Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think that was good though.
 
