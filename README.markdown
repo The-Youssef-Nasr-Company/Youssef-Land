@@ -10,7 +10,7 @@ We are the masters of __code__, __creating hackathons__, _text_, __Python__, __J
 
 ## <!--2.1--> The Story of _Markdown_
 
-As _[Markdown][df1]_ was created by [John Gruber], it was time for us to use [it][df1].
+As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net/), it was time for us to use [it](https://daringfireball.net/projects/markdown).
 
 ## <!--2.2--> Youssef Land Rules & Community Guidelines
 
