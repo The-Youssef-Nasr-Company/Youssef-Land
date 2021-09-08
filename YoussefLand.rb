@@ -1,6 +1,8 @@
 # This is how the main Ruby script works.
 
-puts "Psst! Hey, welcome to Youssef Land!"
+puts "Youssef Land. More fun-less boredom. Copyright (C) The Youssef Nasr Company. All rights reserved."
+
+print "Psst! Hey, welcome to Youssef Land!"
 
 print "We're here in Ruby now."
 
