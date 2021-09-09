@@ -16,11 +16,17 @@ As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [Jo
 
 
 > _The overriding design goal for Markdown's_
+
 > _formatting syntax is to make it as readable_
+
 > _as possible. The idea is that a_
+
 > _Markdown-formatted document should be_
+
 > _publishable as-is, as plain text, without_
+
 > _looking like it's been marked up with tags_
+
 > _or formatting instructions._
 
 ## <!--2.2--> Youssef Land Rules & Community Guidelines
