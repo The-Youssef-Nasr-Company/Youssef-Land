@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature request 🤔
 about: Suggest an idea for Youssef Land so we will solve the problem
 title: 'FEATURE REQUEST: '
 labels: ''
