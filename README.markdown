@@ -10,7 +10,17 @@ We are the masters of __code__, __creating hackathons__, _text_, __Python__, __J
 
 ## <!--2.1--> The Story of _Markdown_
 
-As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net/), it was time for us to use [it](https://daringfireball.net/projects/markdown).
+As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net), it was time for us to use [it](https://daringfireball.net/projects/markdown).
+
+### <!--2.1.1--> The quotes from _[Markdown](https://daringfireball.net/projects/markdown)_ made by [John Gruber](https://daringfireball.net)
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
 
 ## <!--2.2--> Youssef Land Rules & Community Guidelines
 
