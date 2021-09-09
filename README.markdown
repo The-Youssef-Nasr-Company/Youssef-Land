@@ -14,13 +14,14 @@ As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [Jo
 
 ### <!--2.1.1--> The quotes from _[Markdown](https://daringfireball.net/projects/markdown)_ made by [John Gruber](https://daringfireball.net)
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+
+> _The overriding design goal for Markdown's_
+> _formatting syntax is to make it as readable_
+> _as possible. The idea is that a_
+> _Markdown-formatted document should be_
+> _publishable as-is, as plain text, without_
+> _looking like it's been marked up with tags_
+> _or formatting instructions._
 
 ## <!--2.2--> Youssef Land Rules & Community Guidelines
 
