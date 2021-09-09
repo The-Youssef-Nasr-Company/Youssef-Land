@@ -3,6 +3,8 @@
 *.aar
 *.ap_
 *.aab
+*.exe
+*.msi
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -83,3 +85,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Visual Studio solutions
+*.sln
