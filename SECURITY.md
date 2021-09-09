@@ -4,6 +4,6 @@ GitHub's [Bug Bounty program](https://bounty.github.com) rewards researchers for
 
 If the repository is eligible for rewards, you can submit a report via [HackerOne by GitHub](https://hackerone.com/github). You can find more useful information in GitHub's [rules](https://bounty.github.com/#rules) and [FAQ](https://bounty.github.com/#faqs). In Youssef Land [there's also a FAQ](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/blob/master/README.markdown#-youssef-land-faq) __BUT only [on the README](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/blob/master/README.markdown)__.
 
-For repositories not covered by the Bug Bounty program, please open an issue.
+For repositories not covered by the Bug Bounty program, __[please open a issue](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/issues/new/choose)__.
 
-If there's bugs out there on Youssef Land or features are missing in Youssef Land, contact [our organiser](mailto:yoyo.monem22@gmail.com) or submit a issue without the vulnerability removal issue template.
+If there's bugs out there on Youssef Land or features are missing in Youssef Land, contact _[our organiser](mailto:yoyo.monem22@gmail.com)_ __[or open a issue without the vulnerability removal issue template.](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/issues/new/choose)__
