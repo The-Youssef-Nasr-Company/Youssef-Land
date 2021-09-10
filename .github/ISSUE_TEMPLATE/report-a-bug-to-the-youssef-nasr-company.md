@@ -1,5 +1,5 @@
 ---
-name: Report a bug to The Youssef Nasr Company 🐛
+name: "Report a bug to The Youssef Nasr Company \U0001F41B"
 about: Create a report to help us improve Youssef Land
 title: 'BUG: '
 labels: bug

@@ -1,5 +1,5 @@
 ---
-name: Feature request 🤔
+name: "Feature request \U0001F914"
 about: Suggest an idea for Youssef Land so we will solve the problem
 title: 'FEATURE REQUEST: '
 labels: ''
