@@ -85,3 +85,10 @@ jobs:
         run: |
            echo You are commanded to be inside
            echo Youssef Land.
+      # Runs a C script
+      - name: Run a C script
+        run: |
+           echo There are lots to
+           echo see! You should
+           echo explore Youssef
+           echo Land!
