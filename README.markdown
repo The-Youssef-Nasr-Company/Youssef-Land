@@ -172,7 +172,7 @@ If you get too much errors onscreen in all of a sudden you'll get a Blue Screen 
 
 ## <!--3.1--> Help is on the way!
 
-You can use <kbd>Escape</kbd> after letting the computer show you the message `Press ESC to go to Desktop Settings`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
+You can use <kbd>Escape</kbd> after letting the computer show you the message `Press the ESC key for Startup Menu`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
 
 # <!--4.--> Contributors of the Repo
 
