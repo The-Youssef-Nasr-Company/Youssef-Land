@@ -134,7 +134,7 @@ There were __uncool__ bugs on Minecraft that must be reported, but where to find
 
 ##### <!--2.3.2.1.1--> Jira can help!
 
-To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type __https://bugs.mojang.com__ while in `New Tab`.
+To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type __`https://bugs.mojang.com`__ while in `New Tab`.
 
 ## <!--2.4--> Youssef Land Bugs
 
