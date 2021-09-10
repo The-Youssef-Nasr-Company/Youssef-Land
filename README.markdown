@@ -10,7 +10,18 @@ We are the masters of __code__, __creating hackathons__, _text_, __Python__, __J
 
 ## <!--2.1--> The Story of _Markdown_
 
-As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net/), it was time for us to use [it](https://daringfireball.net/projects/markdown).
+As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net), it was time for us to use [it](https://daringfireball.net/projects/markdown).
+
+### <!--2.1.1--> The quotes from _[Markdown](https://daringfireball.net/projects/markdown)_ made by [John Gruber](https://daringfireball.net)
+
+
+> _The overriding design goal for Markdown_'_s_
+> _formatting syntax is to make it as readable_
+> _as possible_. _The idea is that a_
+> _Markdown-formatted document should be_
+> _publishable as-is_, _as plain text_, _without_
+> _looking like it's been marked up with tags_
+> _or formatting instructions_.
 
 ## <!--2.2--> Youssef Land Rules & Community Guidelines
 
@@ -115,7 +126,7 @@ This `README.markdown` includes fun facts about Minecraft with cheats turned on 
 
 For example, type `/give <username:random> command_block 64` on Minecraft Chat to get 64 Command Blocks as typed in the valid syntax with the permission of an __Operator__! These Command Blocks can get you to experimenting!
 
-You can use `/weather <weather:thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who to where>` can transport you to your friend as typed in the valid syntax with any type of permission!
+You can use `/weather <weather:thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who> <where>` can transport you to your friend as typed in the valid syntax with any type of permission!
 
 #### <!--2.3.2.1--> Minecraft Bugs
 
@@ -123,7 +134,7 @@ There were __uncool__ bugs on Minecraft that must be reported, but where to find
 
 ##### <!--2.3.2.1.1--> Jira can help!
 
-To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type `bugs.mojang.com` while in `New Tab`.
+To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type __`https://bugs.mojang.com`__ while in `New Tab`.
 
 ## <!--2.4--> Youssef Land Bugs
 
@@ -161,7 +172,7 @@ If you get too much errors onscreen in all of a sudden you'll get a Blue Screen 
 
 ## <!--3.1--> Help is on the way!
 
-You can use <kbd>Escape</kbd> after letting the computer show you the message `Press ESC to go to Desktop Settings`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
+You can use <kbd>Escape</kbd> after letting the computer show you the message `Press the ESC key for Startup Menu`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
 
 # <!--4.--> Contributors of the Repo
 
