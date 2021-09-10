@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void YoussefLand_Helper(int System.print.In); 
+void YoussefLand_Helper(int System.print.In = [200]); 
 {
   System.print.In.printf("Welcome to Youssef Land! As you can see, we've added an Java printing variable here! <-- HERE\n");
   void Java.print.In(); 
