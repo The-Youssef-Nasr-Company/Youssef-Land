@@ -199,7 +199,7 @@ print("Please fork this repo to work with us AND support us")
 
 # <!--5.--> Youssef Land FAQ
 
-__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not the final heading because the `README.markdown` was having a new header__.
+__This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not the final heading because the `README.markdown` was having new headers__.
 
 > Hey, do you have any __sponsor button__????
 
@@ -245,5 +245,11 @@ $ sudo apt-get install skype
 # <!--6.--> Licensed by __[Nintendo](https://nintendo.com)__
 
 This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
+
+# <!--7.--> Contact
+
+Here's our GitHub organisation:
+
+[![GitHub Org](https://img.shields.io/badge/-GitHub-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company)
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
