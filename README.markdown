@@ -250,6 +250,6 @@ This company is licensed by [Nintendo](https://nintendo.com). You should have ne
 
 Here's our GitHub organisation:
 
-[![GitHub Org](https://img.shields.io/badge/-GitHub Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company)
+[![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company)
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
