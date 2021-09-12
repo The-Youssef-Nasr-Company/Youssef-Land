@@ -248,6 +248,6 @@ This company is licensed by [Nintendo](https://nintendo.com). You should have ne
 
 # <!--7.--> Contact
 
-[![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company) [![GitHub Org](https://img.shields.io/badge/-GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/yoyomonem)
+[![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company) [![Youssef's GitHub Account](https://img.shields.io/badge/-Youssef%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/yoyomonem)
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)
