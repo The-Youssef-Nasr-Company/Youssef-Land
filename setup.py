@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 #
-# This is the distutils setup script for pygame.
-# Full instructions are in https://www.pygame.org/wiki/GettingStarted
+# This is the distutils setup script for Youssef Land.
 #
-# To configure, compile, install, just run this script.
+# To configure, compile, install, just run this script. Type below:
 #     python setup.py install
 import io
-with io.open('README.rst', encoding='utf-8') as readme:
+with io.open('README.md', encoding='utf-8') as readme:
     LONG_DESCRIPTION = readme.read()
 EXTRAS = {}
 METADATA = {
@@ -44,11 +43,12 @@ def compilation_help():
         'Windows': 'https://www.pygame.org/wiki/CompileWindows',
         'Darwin': 'https://www.pygame.org/wiki/MacCompile',
         'RedHat': 'https://www.pygame.org/wiki/CompileRedHat',
-        # TODO There is nothing in the following pages yet
+        # TODO: There is nothing in the following pages yet
         'Suse': 'https://www.pygame.org/wiki/CompileSuse',
         'Python (from pypy.org)': 'https://www.pygame.org/wiki/CompilePyPy',
         'Free BSD': 'https://www.pygame.org/wiki/CompileFreeBSD',
         'Debian': 'https://www.pygame.org/wiki/CompileDebian',
+        'Youssef Land': 'https://yoyomonem22.wix.com/youssefland',
     }
     default = 'https://www.pygame.org/wiki/Compilation'
     url = help_urls.get(the_system, default)
@@ -102,7 +102,7 @@ if consume_arg('-pygame-ci'):
               '-Werror=cast-align -Werror=int-conversion ' + \
               '-Werror=incompatible-pointer-types'
     os.environ['CFLAGS'] = cflags
-# For python 2 we remove the -j options.
+# For Python 2 we remove the -j options.
 if sys.version_info[0] < 3:
     # Used for parallel builds with setuptools. Not supported by py2.
     [consume_arg('-j%s' % x) for x in range(32)]
@@ -191,7 +191,7 @@ if consume_arg('docs'):
     try:
         print("Using python:", sys.executable)
         command_line = [
-            sys.executable, os.path.join('buildconfig', 'makeref.py')
+            sys.executable, os.path.join('Makefile', 'YoussefLand.py')
         ]
         if fullgeneration:
             command_line.append('full_generation')
@@ -201,7 +201,7 @@ if consume_arg('docs'):
     except:
         print(docs_help)
         raise
-    # if there are no more arguments, stop execution so it doesn't get to the SETUP file reading parts
+    # If there are no more arguments, stop execution so it doesn't get to the SETUP file reading parts
     if len(sys.argv) == 1:
         sys.exit()
 AUTO_CONFIG = False
@@ -236,7 +236,7 @@ def add_datafiles(data_files, dest_dir, pattern):
 #     sys.argv.remove ("-setuptools")
 # we need to eat this argument in to distutils doesn't trip over it
 consume_arg("-setuptools")
-# NOTE: the bdist_mpkg_support is for darwin.
+# NOTE: the bdist_mpkg_support is for Darwin.
 try:
     import bdist_mpkg_support
 except ImportError:
@@ -279,20 +279,16 @@ if consume_arg("-noheaders"):
 if len(sys.argv) == 1 and sys.stdout.isatty():
     if sys.version_info[0] >= 3:
         reply = input('\nNo Arguments Given, Perform Default Install? [Y/n]')
-
-
-
-The unsafe built-in function 'input' is used in Python 2.
     else:
         reply = raw_input('\nNo Arguments Given, Perform Default Install? [Y/n]')
     if not reply or reply[0].lower() != 'n':
         sys.argv.append('install')
 # make sure there is a Setup file
 if AUTO_CONFIG or not os.path.isfile('Setup'):
-    print ('\n\nWARNING, No "Setup" File Exists, Running "buildconfig/config.py"')
-    import buildconfig.config
+    print ('\n\nWARNING, No "Setup" File Exists, Running "YoussefLand.py"')
+    import YoussefLand
     try:
-        buildconfig.config.main(AUTO_CONFIG)
+        YoussefLand.main(AUTO_CONFIG)
     except:
         compilation_help()
         raise
