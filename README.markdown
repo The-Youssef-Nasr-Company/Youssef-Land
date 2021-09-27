@@ -2,7 +2,7 @@
 
 [![Commits & Changes CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml) [![Mark stale issues and pull requests CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml) [#11](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/discussions/11)
 
-Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit on the __global__ _[GitHub](https://github.com)_.
+Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit on the __global__ _[GitHub](https://github.com)_. <kbd>⌘</kbd> functions as the <kbd>Windows logo</kbd> key. Remember, you need to save your changes using <kbd>⌘</kbd> and <kbd>S</kbd> for Mac OS systems. Pasting works with <kbd>⌘</kbd> and <kbd>V</kbd> and copying works with <kbd>⌘</kbd> and <kbd>V</kbd> for Mac OS systems.
 
 # <!--2.--> Youssef Land Info
 
