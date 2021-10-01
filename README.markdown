@@ -12,7 +12,7 @@ We are the masters of __code__, __creating hackathons__, _text_, __Python__, __J
 
 As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net), it was time for us to use [it](https://daringfireball.net/projects/markdown).
 
-### <!--2.1.1--> The quotes from _[Markdown](https://daringfireball.net/projects/markdown)_ made by [John Gruber](https://daringfireball.net)
+### <!--2.1.1--> The blockquotes from _[Markdown](https://daringfireball.net/projects/markdown)_ made by [John Gruber](https://daringfireball.net)
 
 
 > _The overriding design goal for Markdown_'_s_
@@ -252,8 +252,8 @@ This company is licensed by [Nintendo](https://nintendo.com). You should have ne
 
 # <!--8.--> Support for Adobe Flash and Adobe Flash Player has ended!
 
-[Adobe](https://adobe.com) has decided to [EOL Adobe Flash Player (and Adobe Flash)](https://www.adobe.com/products/flashplayer/end-of-life.html) in December 31 2020.
+[Adobe](https://adobe.com) has decided to [EOL Adobe Flash Player (and Adobe Flash)](https://www.adobe.com/products/flashplayer/end-of-life-alterntive.html) in December 31 2020.
 
-As a result, Flash and Flash Player has already gotten their EOL from Adobe (no support or updates at all). For more information, [click here to learn more about why Flash and Flash Player was killed from no support and updates in Adobe (HTML only)](https://www.adobe.com/products/flashplayer/end-of-life.html) or, go to https://www.adobe.com/products/flashplayer/end-of-life.html which is an HTML.
+As a result, Flash and Flash Player has already gotten their EOL from Adobe (no support or updates at all). For more information, [click here to learn more about why Flash and Flash Player was killed from no support and updates in Adobe (HTML only)](https://www.adobe.com/products/flashplayer/end-of-life-alternative.html) or, go to <https://www.adobe.com/products/flashplayer/end-of-life-alternative.html>.
 
 ![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png) ![Unicorn!](https://github.com/unicorn.png)
