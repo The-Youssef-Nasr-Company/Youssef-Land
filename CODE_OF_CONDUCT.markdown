@@ -26,7 +26,7 @@ The following behaviors are expected and requested of all community members:
  * Refrain from demeaning, discriminatory, or harassing behavior and speech.
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations in the repository made to create this `CODE_OF_CONDUCT.markdown`, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
- * Don't say curse words; or else Youssef Land will kick you out of this repository and you will go to a repository that wants & includes curse words
+ * Don't say curse words; or else Youssef Land will kick you out of this repository and you will go to a repository that wants & includes curse words.
 
 ## 4. Unacceptable Behavior
 
@@ -43,8 +43,8 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
- * Violent words, such as drugs & curse words
- * Violent Discords, such as TheKittenKing's Discord
+ * Violent words, such as drugs & curse words.
+ * Violent Discords, such as TheKittenKing's Discord.
 
 ## 5. Weapons Policy
 
@@ -56,7 +56,7 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior (like saying curse words or drugs or showing a violent Discord, for example TheKittenKing's Discord), the community organizers can take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 ## 7. Reporting Guidelines
 
