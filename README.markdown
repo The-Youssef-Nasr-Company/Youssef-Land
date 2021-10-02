@@ -51,11 +51,11 @@ We have made our first C# program. Rextester permanent URL goes here: https://re
 
 Don't forget, the visual Microsoft C# compiler version is 2.9.0.63208.
 
-Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <div>The icon he downloaded was made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.</div>
+Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <div>The icon he downloaded was made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a>.</div>
 
 Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](https://medium.com)!
 
-### <!--2.3.1--> Code Examples (BASIC, Python, MATLAB and more!)
+### <!--2.3.1--> Code Examples (Commodore BASIC, Python, MATLAB and more!)
 
 Here's a code example from BASIC:
 
@@ -63,8 +63,8 @@ Here's a code example from BASIC:
 10 PRINT "WELCOME TO YOUSSEF LAND! AS YOU HAVE CHOSEN THIS BASIC CODE EXAMPLE, LET US GET STARTED!"
 20 END
 ```
-Then type `LIST` in any type of system that supports BASIC to check the code example from us.
-Type `RUN` to run the BASIC code example.
+Then type `LIST` in any type of system that supports Commodore BASIC to check the code example from us.
+Type `RUN` to run the Commodore BASIC code example.
 
 Here's a code example from Python:
 ```python
