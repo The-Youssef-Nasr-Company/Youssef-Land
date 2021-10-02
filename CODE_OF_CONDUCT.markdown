@@ -56,11 +56,11 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior (like saying curse words or drugs or showing a violent Discord, for example TheKittenKing's Discord), the community organizers can take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior (like saying curse words or drugs or showing a violent Discord, for example TheKittenKing's Discord), the community organizers can take any action they deem appropriate, up to and including a permanent ban or permanent expulsion from the community after warning that jerk (and after refund in the case of a paid event).
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify [Youssef/@yoyomonem](github.com/yoyomonem) as soon as possible.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify [Youssef/@yoyomonem](https://github.com/yoyomonem) as soon as possible.
 
 [Reporting guidelines is on Youssef Land](https://yoyomonem22.wixsite.com/youssefland).
 
