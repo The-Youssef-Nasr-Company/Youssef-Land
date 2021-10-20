@@ -263,5 +263,7 @@ As a result, Flash and Flash Player has already gotten their EOL from Adobe (no 
 # <!--10.--> Recommended Windows 8.1 Standard Product License Key
 
 The recommended Windows 8.1 Standard product license key is this:
+    
     334NH-RXG76-64THK-C7CKG-D3VPT
+
 where you can install Windows 8.1 Standard.
