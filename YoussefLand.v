@@ -13,8 +13,7 @@
 // limitations under the License.
 
 `timescale 1ns / 1ps
-module button_debounce
-module youssefland_make
+module youssefland_make_debouncebutton
   #(
     parameter
     CLK_FREQUENCY  = 10_000_000,
