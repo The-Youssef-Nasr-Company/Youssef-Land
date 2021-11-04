@@ -267,11 +267,3 @@ The recommended Windows 8.1 Standard generic key is this:
     334NH-RXG76-64THK-C7CKG-D3VPT
 
 where you can install Windows 8.1 Standard (never for activation of Windows 8.1).
-
-## <!--10.1--> Activation
-
-Use this key:
-
-    XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
-
-to activate Windows.
