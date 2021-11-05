@@ -272,7 +272,7 @@ As a result, Flash and Flash Player has already gotten their EOL from Adobe (no 
 
 # <!--9.--> Images
 
-[![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)](https://yoyomonem22.wixsite.com/youssefland) [![Unicorn!](https://github.com/unicorn.png)](https://github.com) [![Oops! A bomb just exploded on you (Atom Smasher error)](https://atom.smasher.org/error/?icon=bomb&style=xp&title=Oops%21+A+bomb+just+exploded+on+you&url=&text=A+bomb+just+exploded+on+you.%0D%0A%0D%0AClicking+on+%22Try+Again%22+restores+all+3+lives+from+this+game.%0D%0A%0D%0AClicking+on+%22Quit+Game%22+forces+the+game+to+quit.%0D%0A%0D%0AClicking+on+%22In+the+future%2C+don%27t+show+this+message+to+me+again%22+forces+the+game+to+quit+and+this+message+can%27t+be+shown+the+next+time+you+lose+this+game+%28casualty%29+for+good.+Well%2C+this+doesn%27t+force+the+game+to+quit+forever.&b1=Try+Again&b2=Quit+Game&b3=In+the+future%2C+don%27t+show+this+message+to+me+again%21%21%21%21%21+%3E%3A%28)
+[![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)](https://yoyomonem22.wixsite.com/youssefland) [![Unicorn!](https://github.com/unicorn.png)](https://github.com)
 
 # <!--10.--> Recommended Windows 8.1 Standard Generic Key
 
