@@ -4,12 +4,19 @@
 [Apple]: https://www.apple.com
 [downloading a Google Chrome DMG on your Mac]: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
 [Markdown]: https://daringfireball.net/projects/markdown
+[#11]: https://github.com/The-Youssef-Nasr-Company/Youssef-Land/discussions/11
+[GitHub]: https://github.com
+[download a Google Chrome DMG on your Mac]: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
+[Download a Google Chrome DMG on your Mac]: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
+[Downloading a Google Chrome DMG on your Mac]: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
+[Daring Fireball Projects: Markdown]: https://daringfireball.net/projects/markdown
+[What's related to Google Chrome for Mac is Chrome's website.]: https://chrome.com
 
 # <!--1.--> Welcome to Youssef Land
 
 [![Commits & Changes CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml) [![Mark stale issues and pull requests CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml) [#11](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/discussions/11)
 
-Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit on the __global__ _[GitHub](https://github.com)_. <kbd>⌘</kbd> functions as the <kbd>Windows logo</kbd> key. Remember, you need to save your changes using <kbd>⌘</kbd> and <kbd>S</kbd> for Mac OS systems. Pasting works with <kbd>⌘</kbd> and <kbd>V</kbd> and copying works with <kbd>⌘</kbd> and <kbd>C</kbd> for Mac OS systems.
+Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit on the __global__ _[GitHub]_. <kbd>⌘</kbd> functions as the <kbd>Windows logo</kbd> key. Remember, you need to save your changes using <kbd>⌘</kbd> and <kbd>S</kbd> for Mac OS systems. Pasting works with <kbd>⌘</kbd> and <kbd>V</kbd> and copying works with <kbd>⌘</kbd> and <kbd>C</kbd> for Mac OS systems.
 
 # <!--2.--> Youssef Land Info
 
@@ -17,7 +24,7 @@ We are the masters of __code__, __creating hackathons__, _text_, __Python__, __J
 
 ## <!--2.1--> The Story of _Markdown_
 
-As _[Markdown]_ was created by [John Gruber], it was time for us to use [it](https://daringfireball.net/projects/markdown).
+As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber], it was time for us to use [it](https://daringfireball.net/projects/markdown).
 
 ### <!--2.1.1--> The blockquotes from _[Markdown]_ made by [John Gruber]
 
