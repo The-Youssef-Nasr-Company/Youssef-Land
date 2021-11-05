@@ -207,11 +207,11 @@ Of course! We have __3 sponsor links__ excluding other services that aren't our 
 
 > I've made a sponsor to the project, so...
 
-YES!!!!!! You've finnaly supported Youssef Land!
+YES!!!!!! You've finally supported Youssef Land!
 
-> What?!
+> Reply to Youssef Land: What?!
 
-OF COURSE!!!!!!!!!!!
+Reply to guest: OF COURSE!!!!!!!!!!!
 
 > Nothing happens with __`cmd`__ on the Makefile...
 
