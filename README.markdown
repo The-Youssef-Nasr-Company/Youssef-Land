@@ -1,3 +1,10 @@
+[Ubuntu]: https://ubuntu.com
+[Atom Smasher]: http://atom.smasher.org
+[John Gruber]: https://daringfireball.net
+[Apple]: https://www.apple.com
+[downloading a Google Chrome DMG on your Mac]: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
+[Markdown]: https://daringfireball.net/projects/markdown
+
 # <!--1.--> Welcome to Youssef Land
 
 [![Commits & Changes CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml) [![Mark stale issues and pull requests CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml) [#11](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/discussions/11)
@@ -10,9 +17,9 @@ We are the masters of __code__, __creating hackathons__, _text_, __Python__, __J
 
 ## <!--2.1--> The Story of _Markdown_
 
-As _[Markdown](https://daringfireball.net/projects/markdown)_ was created by [John Gruber](https://daringfireball.net), it was time for us to use [it](https://daringfireball.net/projects/markdown).
+As _[Markdown]_ was created by [John Gruber], it was time for us to use [it](https://daringfireball.net/projects/markdown).
 
-### <!--2.1.1--> The blockquotes from _[Markdown](https://daringfireball.net/projects/markdown)_ made by [John Gruber](https://daringfireball.net)
+### <!--2.1.1--> The blockquotes from _[Markdown]_ made by [John Gruber]
 
 
 > _The overriding design goal for Markdown_'_s_
@@ -258,7 +265,7 @@ As a result, Flash and Flash Player has already gotten their EOL from Adobe (no 
 
 # <!--9.--> Images
 
-[![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)](https://yoyomonem22.wixsite.com/youssefland) [![Unicorn!](https://github.com/unicorn.png)](https://github.com) [![Oops! a bomb just exploded on you (Atom Smasher error)](http://atom.smasher.org/error/xp.png.php?icon=bomb&style=xp&title=Oops%21+A+bomb+just+exploded+on+you&url=&text=A+bomb+just+exploded+on+you.%0D%0A%0D%0AClicking+on+%22Try+Again%22+restores+all+3+lives+from+this+game.%0D%0A%0D%0AClicking+on+%22Quit+Game%22+forces+the+game+to+quit.%0D%0A%0D%0AClicking+on+%22In+the+future%2C+don%27t+show+this+message+to+me+again%22+forces+the+game+to+quit+and+this+message+can%27t+be+shown+in+the+next+time+you+lose+this+game+%28casualty%29+for+good.+Well%2C+this+doesn%27t+force+the+game+to+quit+forever.&b1=Try+Again&b2=Quit+Game&b3=In+the+future%2C+don%27t+show+this+message+to+me+again%21%21%21%21%21+%3E%3A%28)](http://atom.smasher.org/error/?icon=bomb&style=xp&title=Oops%21+A+bomb+just+exploded+on+you&url=&text=A+bomb+just+exploded+on+you.%0D%0A%0D%0AClicking+on+%22Try+Again%22+restores+all+3+lives+from+this+game.%0D%0A%0D%0AClicking+on+%22Quit+Game%22+forces+the+game+to+quit.%0D%0A%0D%0AClicking+on+%22In+the+future%2C+don%27t+show+this+message+to+me+again%22+forces+the+game+to+quit+and+this+message+can%27t+be+shown+in+the+next+time+you+lose+this+game+%28casualty%29+for+good.+Well%2C+this+doesn%27t+force+the+game+to+quit+forever.&b1=Try+Again&b2=Quit+Game&b3=In+the+future%2C+don%27t+show+this+message+to+me+again%21%21%21%21%21+%3E%3A%28)
+[![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)](https://yoyomonem22.wixsite.com/youssefland) [![Unicorn!](https://github.com/unicorn.png)](https://github.com) [![Oops! A bomb just exploded on you (Atom Smasher error)](https://atom.smasher.org/error/?icon=bomb&style=xp&title=Oops%21+A+bomb+just+exploded+on+you&url=&text=A+bomb+just+exploded+on+you.%0D%0A%0D%0AClicking+on+%22Try+Again%22+restores+all+3+lives+from+this+game.%0D%0A%0D%0AClicking+on+%22Quit+Game%22+forces+the+game+to+quit.%0D%0A%0D%0AClicking+on+%22In+the+future%2C+don%27t+show+this+message+to+me+again%22+forces+the+game+to+quit+and+this+message+can%27t+be+shown+the+next+time+you+lose+this+game+%28casualty%29+for+good.+Well%2C+this+doesn%27t+force+the+game+to+quit+forever.&b1=Try+Again&b2=Quit+Game&b3=In+the+future%2C+don%27t+show+this+message+to+me+again%21%21%21%21%21+%3E%3A%28)
 
 # <!--10.--> Recommended Windows 8.1 Standard Generic Key
 
