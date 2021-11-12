@@ -11,6 +11,9 @@
 [Downloading a Google Chrome DMG on your Mac]: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
 [Daring Fireball Projects: Markdown]: https://daringfireball.net/projects/markdown
 [What's related to Google Chrome for Mac is Chrome's website.]: https://chrome.com
+[Tim Pope]: https://github.com/tpope
+[Youssef]: https://github.com/yoyomonem
+[Mohammed]: https://github.com/mandomonem
 
 # <!--1.--> Welcome to Youssef Land
 
@@ -191,9 +194,9 @@ You can use <kbd>Escape</kbd> after letting the computer show you the message `P
 # <!--4.--> Contributors of the Repo
 
 The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/mandomonem). [@tpope](https://github.com/tpope) was invited to both the repo and the organisation in order to create Vim plugins for the organisation.
-- [ ] [@tpope](https://github.com/tpope)
-- [x] [@mandomonem](https://github.com/mandomonem)
-- [x] [@yoyomonem](https://github.com/yoyomonem)
+- [ ] [@tpope][Tim Pope]
+- [x] [@mandomonem][Mohammed]
+- [x] [@yoyomonem][Youssef]
 
 ## <!--4.1--> Help us become popular by contributing!
 
@@ -262,7 +265,7 @@ This company is licensed by [Nintendo](https://nintendo.com). You should have ne
 
 # <!--7.--> Contact
 
-[![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company) [![Youssef's GitHub Account](https://img.shields.io/badge/-Youssef%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/yoyomonem) [![Mohammed's GitHub Account](https://img.shields.io/badge/-Mohammed%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/mandomonem) [![Tim's GitHub Account](https://img.shields.io/badge/-Tim%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/tpope) [![PyGame](https://img.shields.io/badge/-PyGame%27s%20Website-%23282a36?style=flat-square&logo=Python)](https://www.pygame.com)
+[![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company) [![Youssef's GitHub Account](https://img.shields.io/badge/-Youssef%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Youssef] [![Mohammed's GitHub Account](https://img.shields.io/badge/-Mohammed%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Mohammed] [![Tim's GitHub Account](https://img.shields.io/badge/-Tim%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Tim Pope] [![PyGame](https://img.shields.io/badge/-PyGame%27s%20Website-%23282a36?style=flat-square&logo=Python)](https://www.pygame.com)
 
 # <!--8.--> Support for Adobe Flash and Adobe Flash Player has ended!
 
