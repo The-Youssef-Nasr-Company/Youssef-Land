@@ -1,4 +1,4 @@
-@rem This is for running the Ruby program
-@rem YoussefLand.rb.
-
+@echo off
+rem This runs the program
+rem YoussefLand.rb.
 YoussefLand.rb
