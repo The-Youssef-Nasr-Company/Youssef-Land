@@ -178,11 +178,11 @@ Error: The YAML file "main.yml" cannot confirm a commit whilst trying to make it
 
 ## <!--2.5--> Windows Bugs
 
-Windows had a bug on the taskbar text & icons, and no Blue Screen came. I think that was good though.
+Windows had a bug on the taskbar text & icons, and no Blue Screen of Death came. I think that was good though.
 
 # <!--3.--> Warning
 
-If you get too much errors onscreen in all of a sudden you'll get a Blue Screen (sometimes you get a sudden hanging 8-bit beep) which warns you sometimes that Windows has been shut down to prevent damage from your computer.
+If you get too much errors onscreen in all of a sudden you'll get a Blue Screen of Death (the sound and sound effects hang while the Blue Screen of Detah is on your PC) which warns you sometimes that Windows has been shut down to prevent damage from your computer. You can trigger this by running ´taskkill /f /im wininit.exe /t´ as the adminstrator in Windows Vista/7.
 
 ## <!--3.1--> Help is on the way!
 
