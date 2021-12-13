@@ -185,7 +185,7 @@ Windows had a bug on the taskbar text & icons, and no Blue Screen of Death came.
 
 # <!--3.--> Warning
 
-If you get too much errors onscreen in all of a sudden you'll get a Blue Screen of Death (the sound and sound effects hang while the Blue Screen of Detah is on your PC) which warns you sometimes that Windows has been shut down to prevent damage from your computer. You can trigger this by running ´taskkill /f /im wininit.exe /t´ as the adminstrator in Windows Vista/7.
+If you get too much errors onscreen in all of a sudden you'll get a Blue Screen of Death (the sound and sound effects hang while the Blue Screen of Detah is on your PC) which warns you sometimes that Windows has been shut down to prevent damage from your computer. You can trigger this by running `taskkill /f /im wininit.exe /t` as the adminstrator in Windows Vista/7.
 
 ## <!--3.1--> Help is on the way!
 
