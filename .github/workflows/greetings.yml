@@ -12,5 +12,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'You had an issue, right? Yes, you do.'
-        pr-message: 'Did you want us to merge this PR?'
+        issue-message: "Welcome to Youssef Land! We have fixed this issue!"
+        pr-message: "Welcome to Youssef Land! We have merged this PR because the change was useful!"
