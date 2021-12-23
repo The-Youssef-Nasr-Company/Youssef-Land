@@ -189,11 +189,11 @@ If you get too much errors onscreen in all of a sudden you'll get a Blue Screen 
 
 ## <!--3.1--> Help is on the way!
 
-You can use <kbd>Escape</kbd> after letting the computer show you the message `Press the ESC key for Startup Menu`, go to `Settings`, then use <kbd>F8</kbd> for Safe Mode to get the bluescreening out of Windows' way.
+You can use <kbd>Escape</kbd> after letting the computer show you the message `Press the ESC key for Startup Menu`, push <kbd>F8</kbd> once you have highlighted `Windows <Version>` for advanced Windows startup options, then push <kbd>Enter</kbd> once you have highlighted `Safe Mode with Networking` (if you will visit websites during the Safe Mode usage), or just highlight `Safe Mode` then push <kbd>Enter</kbd> (if you don't want to visit websites during the Safe Mode usage).
 
 # <!--4.--> Contributors of the Repo
 
-The only contributors in this repo are [@yoyomonem](https://github.com/yoyomonem) and [@mandomonem](https://github.com/mandomonem). [@tpope](https://github.com/tpope) was invited to both the repo and the organisation in order to create Vim plugins for the organisation.
+The only contributors in this repo are [@yoyomonem][Youssef] and [@mandomonem][Mohammed]. [@tpope][Tim Pope] was invited to both the repo and the organisation in order to create Vim plugins for the organisation.
 - [ ] [@tpope][Tim Pope]
 - [x] [@mandomonem][Mohammed]
 - [x] [@yoyomonem][Youssef]
@@ -238,7 +238,7 @@ Reply to guest: OF COURSE!!!!!!!!!!!
 
 You can create a file like so:
 
-```shell
+```shell-session
 $ create <filename>
 ```
 
@@ -246,7 +246,7 @@ $ create <filename>
 
 You can delete a file like so:
 
-```shell
+```shell-session
 $ delete <filename>
 ```
 
@@ -254,7 +254,7 @@ $ delete <filename>
 
 You can install Skype like so for Ubuntu:
 
-```shell
+```shell-session
 $ sudo apt-get install skype
 ```
 
