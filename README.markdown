@@ -15,22 +15,22 @@
 [Youssef]: https://github.com/yoyomonem
 [Mohammed]: https://github.com/mandomonem
 
-# <!--1.--> Welcome to Youssef Land
+# Welcome to Youssef Land
 
 [![Commits & Changes CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/main.yml) [![Mark stale issues and pull requests CI](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml/badge.svg)](https://github.com/The-Youssef-Nasr-Company/Youssef-Land/actions/workflows/stale.yml) [#11]
 
 Welcome to Youssef Land! Youssef Land is a place full of fun files and the `README.markdown` we are in. You will have access to all our features if you have gotten Youssef Land Premium (100 kr + 1 TB) or Youssef Land Plus (0 kr + 2 GB). [Learn more about profiles](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile) if you see something unexpected on any profile you visit on the __global__ _[GitHub]_. <kbd>⌘</kbd> functions as the <kbd>Windows logo</kbd> key. Remember, you need to save your changes using <kbd>⌘</kbd> and <kbd>S</kbd> for macOS systems. Pasting works with <kbd>⌘</kbd> and <kbd>V</kbd> and copying works with <kbd>⌘</kbd> and <kbd>C</kbd> for macOS systems.
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land ❌. -->
 
-# <!--2.--> Youssef Land Info
+# Youssef Land Info
 
-We are the masters of __code__, __creating hackathons__, _text_, __Python__, __Java/JavaScript__ & __Markdown__. We aren't the masters of __JSON__ anyway.
+We are the masters of __code__, __creating hackathons__, _text_, __Python__, __Java/JavaScript__ & __Markdown__. We aren't the masters of __JSON__ anyway. 
 
-## <!--2.1--> The Story of _Markdown_
+## The Story of _Markdown_
 
 As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber], it was time for us to use [it](https://daringfireball.net/projects/markdown).
 
-### <!--2.1.1--> The blockquotes from _[Markdown]_ made by [John Gruber]
+## The blockquote from _[Markdown]_ made by [John Gruber]
 
 
 > _The overriding design goal for Markdown_'_s_
@@ -41,7 +41,7 @@ As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber]
 > _looking like it's been marked up with tags_
 > _or formatting instructions_.
 
-## <!--2.2--> Youssef Land Rules & Community Guidelines
+## Youssef Land Rules & Community Guidelines
 
 We appreciate these things ✔️:
 
@@ -59,7 +59,7 @@ We don't appreciate these things ❌:
 * Bad videos
 * Ads
 
-## <!--2.3--> Youssef Land News
+## Youssef Land News
 
 __This is the news channel of Youssef Land called Youssef Land News__.
 
@@ -71,7 +71,7 @@ Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <di
 
 Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](https://medium.com)!
 
-### <!--2.3.1--> Code Examples (Commodore BASIC, Python, MATLAB and more!)
+### Code Examples (Commodore BASIC, Python, MATLAB and more!)
 
 Here's a code example from BASIC:
 
@@ -107,7 +107,7 @@ make: cmd
 Youssef-Land: make
 ```
 
-#### <!--2.3.1.1--> Text Code Examples (Markdown only)
+#### Text Code Examples (Markdown only)
 
 Here's a text code example from Markdown:
 
@@ -136,7 +136,7 @@ as well |
 ```
 
 
-### <!--2.3.2--> Minecraft Fun Facts
+### Minecraft Fun Facts
 
 This `README.markdown` includes fun facts about Minecraft with cheats turned on and with Creative Mode on your Minecraft world!
 
@@ -144,15 +144,15 @@ For example, type `/give <username:random> command_block 64` on Minecraft Chat t
 
 You can use `/weather <weather:thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who> <where>` can transport you to your friend as typed in the valid syntax with any type of permission!
 
-#### <!--2.3.2.1--> Minecraft Bugs
+#### Minecraft Bugs
 
 There were __uncool__ bugs on Minecraft that must be reported, but where to find the _dashboard_?
 
-##### <!--2.3.2.1.1--> Jira can help!
+##### Jira can help!
 
 To think, [Jira](https://www.atlassian.com/software/jira) can help! To get to the Minecraft bug reporting dashboard, type __[`https://bugs.mojang.com`](https://bugs.mojang.com)__ while in `New Tab` (in Google Chrome).
 
-## <!--2.4--> Youssef Land Bugs
+## Youssef Land Bugs
 
 The only bugs found in Youssef Land is shown here:
 
@@ -178,26 +178,26 @@ Error: C/C++ & Make cannot be run due to a fatal exception while building the C/
 Error: The YAML file "main.yml" cannot confirm a commit whilst trying to make its best work for GitHub Actions. Stop.
 ```
 
-## <!--2.5--> Windows Bugs
+## Windows Bugs
 
 Windows had a bug on the taskbar text & icons, and no Blue Screen of Death came. I think that was good though.
 
-# <!--3.--> Warning
+# Warning
 
 If you get too much errors onscreen in all of a sudden you'll get a Blue Screen of Death (the sound and sound effects hang while the Blue Screen of Death is on your PC) which warns you sometimes that Windows has been shut down to prevent damage from your computer. You can trigger this by running `taskkill /f /im wininit.exe /t` as the adminstrator in Windows Vista/7.
 
-## <!--3.1--> Help is on the way!
+## Help is on the way!
 
 You can use <kbd>Escape</kbd> after letting the computer show you the message `Press the ESC key for Startup Menu`, push <kbd>F8</kbd> once you have highlighted `Windows <Version>` for advanced Windows startup options, then push <kbd>Enter</kbd> once you have highlighted `Safe Mode with Networking` (if you will visit websites during the Safe Mode usage), or just highlight `Safe Mode` then push <kbd>Enter</kbd> (if you don't want to visit websites during the Safe Mode usage).
 
-# <!--4.--> Contributors of the Repo
+# Contributors of the Repo
 
 The only contributors in this repo are [@yoyomonem][Youssef] and [@mandomonem][Mohammed]. [@tpope][Tim Pope] was invited to both the repo and the organisation in order to create Vim plugins for the organisation.
 - [ ] [@tpope][Tim Pope]
 - [x] [@mandomonem][Mohammed]
 - [x] [@yoyomonem][Youssef]
 
-## <!--4.1--> Help us become popular by contributing!
+## Help us become popular by contributing!
 
 We need your __help and support__ to let us (__[the repo itself](https://github.com/The-Youssef-Nasr-Company/Youssef-Land)__) become the most popular company in the __WHOLE WORLD__! You can fork this repo freely without our permission to contribute with us!
 
@@ -213,7 +213,7 @@ __Please__ _support_ us by forking
 print("Please fork this repo to work with us AND support us")
 ```
 
-# <!--5.--> Youssef Land FAQ
+# Youssef Land FAQ
 
 __This is the final heading of this `README.markdown`, the FAQ of Youssef Land__. __Actually it's not the final heading because the `README.markdown` was having new headers__.
 
@@ -258,28 +258,38 @@ $ sudo apt-get install skype
 ```
 
 
-# <!--6.--> Licensed by __[Nintendo](https://nintendo.com)__
+# Licensed by __[Nintendo](https://nintendo.com)__
 
 This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
 
-# <!--7.--> Contact
+# Contact
 
 [![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company) [![Youssef's GitHub Account](https://img.shields.io/badge/-Youssef%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Youssef] [![Mohammed's GitHub Account](https://img.shields.io/badge/-Mohammed%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Mohammed] [![Tim's GitHub Account](https://img.shields.io/badge/-Tim%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Tim Pope] [![PyGame](https://img.shields.io/badge/-PyGame%27s%20Website-%23282a36?style=flat-square&logo=Python)](https://www.pygame.com)
 
-# <!--8.--> Support for Adobe Flash and Adobe Flash Player has ended!
+# Support for Adobe Flash and Adobe Flash Player has ended!
 
 [Adobe](https://adobe.com) has decided to [EOL Adobe Flash Player (and Adobe Flash)](https://www.adobe.com/products/flashplayer/end-of-life-alterntive.html) in December 31 2020.
 
 As a result, Flash and Flash Player has already gotten their EOL from Adobe (no support or updates at all). For more information, [click here to learn more about why Flash and Flash Player was killed from no support and updates in Adobe (HTML only)](https://www.adobe.com/products/flashplayer/end-of-life-alternative.html) or, go to <https://www.adobe.com/products/flashplayer/end-of-life-alternative.html>.
 
-# <!--9.--> Images
+# Images
 
 [![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)](https://yoyomonem22.wixsite.com/youssefland) [![Unicorn!](https://github.com/unicorn.png)](https://github.com)
 
-# <!--10.--> Recommended Windows 8.1 Standard Generic Key
+# Recommended Windows 8.1 Standard generic key
 
 The recommended Windows 8.1 Standard generic key is this:
     
     334NH-RXG76-64THK-C7CKG-D3VPT
 
 where you can install Windows 8.1 Standard (never for activation of Windows 8.1).
+
+# Cloning YouTube Spammer Purge by ThioJoe using Git with HTTPS
+
+This is how to clone YouTube Spammer Purge by ThioJoe using Git with HTTPS.
+
+Enter this command:
+    
+    git clone https://github.com/ThioJoe/YT-Spammer-Purge
+
+with Git to clone <https://github.com/ThioJoe/YT-Spammer-Purge>.
