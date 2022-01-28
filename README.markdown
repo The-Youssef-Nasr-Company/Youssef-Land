@@ -276,14 +276,6 @@ As a result, Flash and Flash Player has already gotten their EOL from Adobe (no 
 
 [![Youssef Land](https://user-images.githubusercontent.com/63739514/131213918-b782fcf0-1db3-487b-b5d1-84aba6a73741.png)](https://yoyomonem22.wixsite.com/youssefland) [![Unicorn!](https://github.com/unicorn.png)](https://github.com)
 
-# Recommended Windows 8.1 Standard generic key
-
-The recommended Windows 8.1 Standard generic key is this:
-    
-    334NH-RXG76-64THK-C7CKG-D3VPT
-
-where you can install Windows 8.1 Standard (never for activation of Windows 8.1).
-
 # Cloning YouTube Spammer Purge by ThioJoe using Git with HTTPS
 
 This is how to clone YouTube Spammer Purge by ThioJoe using Git with HTTPS.
@@ -293,3 +285,13 @@ Enter this command:
     git clone https://github.com/ThioJoe/YT-Spammer-Purge
 
 with Git to clone <https://github.com/ThioJoe/YT-Spammer-Purge>.
+
+# SMM1 is dead in 2021
+
+In 2015, the beloved __Super Mario Maker for Wii U__ was created by Nintendo. Everybody loved it and all, but in 2021, Nintendo __SUDDENLY MURDERED Super Mario Maker__.
+
+R.I.P. SMM1 (2015~2021)
+
+__But wait! Maybe we could put a stop to this murder!__
+
+We command Nintendo to stop the SMM1 murder, and __POOF!__ It's all gone!
