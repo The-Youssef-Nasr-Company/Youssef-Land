@@ -284,7 +284,7 @@ Enter this command:
     
     git clone https://github.com/ThioJoe/YT-Spammer-Purge
 
-with Git to clone <https://github.com/ThioJoe/YT-Spammer-Purge>.
+or copy this command to Git and push <kbd>Enter</kbd> to clone <https://github.com/ThioJoe/YT-Spammer-Purge>.
 
 # SMM1 is dead in 2021
 
@@ -294,4 +294,4 @@ R.I.P. SMM1 (2015~2021)
 
 __But wait! Maybe we could put a stop to this murder!__
 
-We command Nintendo to stop the SMM1 murder, and __POOF!__ It's all gone!
+We command Nintendo to stop the SMM1 murder, and __POOF!__ The murder's all gone!
