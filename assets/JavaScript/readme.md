@@ -6,5 +6,5 @@ Here's a `Hello World` example:
 
 ```javascript
 var helloworld = "Hello, world!";
-print(helloworld);
+console.log(helloworld);
 ```
