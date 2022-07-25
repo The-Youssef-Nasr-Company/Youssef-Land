@@ -1,2 +1,2 @@
 var helloworld = "Hello, world!";
-print(helloworld);
+console.log(helloworld);
