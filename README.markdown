@@ -45,8 +45,8 @@ As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber]
 
 We appreciate these things ✔️:
 
-* No memes
-* Viral animation except the official version of Animator vs. Animation 5 and Lush Caves (made by Alan Becker)
+* No memes except Troll Face
+* Viral animation except the official version of Animator vs. Animation V and Lush Caves (made by Alan Becker)
 * Good words
   * No curse words
 
@@ -54,8 +54,8 @@ We don't appreciate these things ❌:
 
 * TheKittenKing's Discord
   * Curse words
-* Animator vs. Animation 5 (official) and Lush Caves (Animation vs. Minecraft Shorts) made by Alan Becker
-* Memes
+* Animator vs. Animation V (official) and Lush Caves (Animation vs. Minecraft Shorts) made by Alan Becker
+* Memes except Troll Face
 * Bad videos
 * Ads
 
@@ -90,12 +90,10 @@ print("Welcome to Youssef Land! As you have chosen this Python code example, let
 Here's 2 code examples from JavaScript/Java:
 
 ```javascript
-alert("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
+console.log("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
 ```
 ```java
-function YoussefLand(); {
-  System.print.In("Welcome to Youssef Land! As you have chosen this Java code example, let's get started!");
-}
+System.print.ln("Welcome to Youssef Land! As you have chosen this Java code example, let's get started!");
 ```
 
 Here's a code example from Make:
@@ -123,7 +121,7 @@ _This will be italic_
 1. This is number 1
   * This is bullet-listed for number 1 (known as sub-list)
 
-- [ ] This is an task
+- [ ] This is a task
 - [ ] This is task number 2
 
 You can [link to Google](https://google.com)
@@ -142,7 +140,7 @@ This `README.markdown` includes fun facts about Minecraft with cheats turned on 
 
 For example, type `/give <username:random> command_block 64` on Minecraft Chat to get 64 Command Blocks as typed in the valid syntax with the permission of an __Operator__! These Command Blocks can get you to experimenting!
 
-You can use `/weather <weather:thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who> <where>` can transport you to your friend as typed in the valid syntax with any type of permission!
+You can use `/weather <thunder:clear:rain>` to change the weather as typed in the valid syntax with any type of permission! Using `/tp <who> <where>` can transport you to your friend as typed in the valid syntax with any type of permission!
 
 #### Minecraft Bugs
 
@@ -180,7 +178,7 @@ Error: The YAML file "main.yml" cannot confirm a commit whilst trying to make it
 
 ## Windows Bugs
 
-Windows had a bug on the taskbar text & icons, and no Blue Screen of Death came. I think that was good though.
+Windows had a bug on the taskbar text & icons, and no Blue Screen of Death came. I think that was good enough.
 
 # Warning
 
@@ -188,7 +186,7 @@ If you get too much errors onscreen in all of a sudden you'll get a Blue Screen 
 
 ## Help is on the way!
 
-You can use <kbd>Escape</kbd> after letting the computer show you the message `Press the ESC key for Startup Menu`, push <kbd>F8</kbd> once you have highlighted `Windows <Version>` for advanced Windows startup options, then push <kbd>Enter</kbd> once you have highlighted `Safe Mode with Networking` (if you will visit websites during the Safe Mode usage), or just highlight `Safe Mode` then push <kbd>Enter</kbd> (if you don't want to visit websites during the Safe Mode usage).
+You can push <kbd>F8</kbd> before the Windows logo appears, to start `Safe Mode`.
 
 # Contributors of the Repo
 
