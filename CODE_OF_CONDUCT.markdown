@@ -32,7 +32,7 @@ The following behaviors are expected and requested of all community members:
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
- * Violence, threats of violence or violent language directed against another person.
+ * Violence, threats of violence or violent language directed against another person, such as swear words.
  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
  * Posting or displaying sexually explicit or violent material.
  * Posting or threatening to post other people's personally identifying information ("doxing").
@@ -43,8 +43,7 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
- * Violent words, such as drugs & curse words.
- * Violent Discords, such as TheKittenKing's Discord.
+ * Discords that speak violent lnguage, e.g. TheKittenKing.
 
 ## 5. Weapons Policy
 
