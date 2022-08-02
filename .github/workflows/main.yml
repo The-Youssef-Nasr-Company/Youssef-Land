@@ -31,19 +31,16 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
-          echo This is why
-          echo we are confirming
+          echo We are confirming
           echo a commit
           echo automatically!
-          echo Forks not
+          echo Forks
           echo included.
-      # Runs a Youssef Land script
-      - name: Run a Youssef Land script
+      # Runs a single-line Youssef Land script
+      - name: Run a single-line Youssef Land script
         run: echo Welcome to Youssef Land!
-      # Runs a full Youssef Land script
-      - name: Run a full Youssef Land script
+      # Runs a full multi-line Youssef Land script
+      - name: Run a full multi-line Youssef Land script
         run: |
           echo Welcome to Youssef Land!
           echo We are triggering a
@@ -64,7 +61,7 @@ jobs:
           echo you always wanted to
           echo be with!
           echo Forks required to support
-          echo BUT not included.
+          echo and included.
       # Runs a confirmation script
       - name: Run a confirmation script
         run: |
@@ -78,7 +75,8 @@ jobs:
       # Runs a Make script
       - name: Run a Make script
         run: |
-          echo The-Youssef-Nasr-Company/Youssef-Land/Makefile: Permission denied.
+          echo The-Youssef-Nasr-Company/Youssef-Land/Makefile: Permission accepted.
+          echo Compiling...
           echo Compilation finished successfully.
       # Runs a C++ script
       - name: Run a C++ script
