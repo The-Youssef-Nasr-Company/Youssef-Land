@@ -255,11 +255,6 @@ You can install Skype like so for Ubuntu:
 $ sudo apt-get install skype
 ```
 
-
-# Licensed by __[Nintendo](https://nintendo.com)__
-
-This company is licensed by [Nintendo](https://nintendo.com). You should have needed to ask Nintendo to stop this war of licensing.
-
 # Contact
 
 [![GitHub Org](https://img.shields.io/badge/-GitHub%20Org-%23282a36?style=flat-square&logo=GitHub)](https://www.github.com/The-Youssef-Nasr-Company) [![Youssef's GitHub Account](https://img.shields.io/badge/-Youssef%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Youssef] [![Mohammed's GitHub Account](https://img.shields.io/badge/-Mohammed%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Mohammed] [![Tim's GitHub Account](https://img.shields.io/badge/-Tim%27s%20GitHub%20Account-%23282a36?style=flat-square&logo=GitHub)][Tim Pope] [![PyGame](https://img.shields.io/badge/-PyGame%27s%20Website-%23282a36?style=flat-square&logo=Python)](https://www.pygame.com)
