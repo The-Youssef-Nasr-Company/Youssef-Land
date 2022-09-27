@@ -22,16 +22,12 @@ Welcome to Youssef Land! Youssef Land is a place full of fun files with the `REA
 <!-- Please be aware that swear words violate The Youssef Nasr Company and Youssef Land's rules ❌. -->
 
 # Youssef Land Info
-
 We are the masters of __code__, __creating hackathons__, _text_, __Python__, __Java/JavaScript__ & __Markdown__. We aren't the masters of __JSON__ anyway. 
 
 ## The Story of _[Markdown]_
-
 As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber], it was time for us to use [it](https://daringfireball.net/projects/markdown).
 
 ## The blockquote from _[Markdown]_ made by [John Gruber]
-
-
 > _The overriding design goal for Markdown_'_s_
 > _formatting syntax is to make it as readable_
 > _as possible_. _The idea is that a_
@@ -41,10 +37,9 @@ As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber]
 > _or formatting instructions_.
 
 ## Youssef Land Rules & Community Guidelines
-
 We appreciate these things ✔️:
 
-* No memes except Troll Face
+* No memes except Troll Face and the Sonic and Tails Dancing Memes
 * Viral animation except the official version of Animator vs. Animation V and Lush Caves (made by Alan Becker)
 * Good words
   * No curse words
@@ -54,7 +49,7 @@ We don't appreciate these things ❌:
 * TheKittenKing's Discord
   * Curse words
 * Animator vs. Animation V (official) and Lush Caves (Animation vs. Minecraft Shorts) made by Alan Becker
-* Memes except Troll Face
+* Memes except Troll Face and the Sonic and Tails Dancing Memes
 * Bad videos
 * Ads
 
