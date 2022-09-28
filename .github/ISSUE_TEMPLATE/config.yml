@@ -5,4 +5,5 @@ contact_links:
     about: This is the unforgettable Youssef Land, for making you happy 😉
   - name: "Edit issue templates (if you're a collaborator)"
     url: https://github.com/The-Youssef-Nasr-Company/Youssef-Land/issues/templates/edit
+    about: "If you're a collaborator, then edit the issue templates by clicking on the Open button next to the text"
     
