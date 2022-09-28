@@ -6,4 +6,6 @@ contact_links:
   - name: "Edit issue templates (if you're a collaborator)"
     url: https://github.com/The-Youssef-Nasr-Company/Youssef-Land/issues/templates/edit
     about: "If you're a collaborator, then edit the issue templates by clicking on the Open button next to the text"
-    
+  - name: Edit config.yml
+    url: https://github.com/The-Youssef-Nasr-Company/Youssef-Land/edit/master/.github/ISSUE_TEMPLATE/config.yml
+    about: You can edit config.yml, the source of all this links
