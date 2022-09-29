@@ -1,0 +1,11 @@
+trigger:
+- master
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- script: |
+    echo This commit is being
+    echo identified!
+  displayName: 'Run the commit identifier'
