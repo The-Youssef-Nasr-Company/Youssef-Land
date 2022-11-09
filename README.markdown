@@ -61,7 +61,7 @@ We have made our first C# program. Rextester permanent URL goes here: https://re
 
 Don't forget, the visual Microsoft C# compiler version is 2.9.0.63208.
 
-Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <div>The icon he downloaded was made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a>.</div>
+Youssef also downloaded a PNG file "hamburger.png" to G:\Youssef's Textures! <div>The icon he downloaded was made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">Flaticon</a>.
 
 Youssef has made a [Medium story](https://medium.com/@yoyo.monem22/the-story-i-told-to-medium-d67601e7b0aa)! Check it out on [Medium](https://medium.com)!
 
@@ -81,24 +81,11 @@ Here's a code example from Python:
 print("Welcome to Youssef Land! As you have chosen this Python code example, let's get started!")
 ```
 
-Here's 2 code examples from JavaScript/Java:
+Here's a code examples from JavaScript:
 
 ```javascript
-console.log("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
+alert("Welcome to Youssef Land! As you have chosen this JavaScript code example, let's get started!");
 ```
-```java
-System.print.ln("Welcome to Youssef Land! As you have chosen this Java code example, let's get started!");
-```
-
-Here's a code example from Make:
-
-```makefile
-YoussefLandMaker: cmd make Youssef-Land
-cmd: YoussefLandMaker
-make: cmd
-Youssef-Land: make
-```
-
 #### Text Code Examples (Markdown only)
 
 Here's a text code example from Markdown:
@@ -194,7 +181,11 @@ The only contributors in this repo are [@yoyomonem][Youssef] and [@mandomonem][M
 We need your __help and support__ to let us (__[the repo itself](https://github.com/The-Youssef-Nasr-Company/Youssef-Land)__) become the most popular company in the __WHOLE WORLD__! You can fork this repo freely without our permission to contribute with us!
 
 ```java
-System.out.printIn("Please use your support on this repo by forking");
+public class MainClass {
+    public void main(String[] args) {
+        System.out.println("Please use your support on this repo by forking");
+    }
+}
 ```
 
 ```markdown
