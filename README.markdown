@@ -37,7 +37,7 @@ As _[Markdown][Daring Fireball Projects: Markdown]_ was created by [John Gruber]
 > _or formatting instructions_.
 
 ## Youssef Land Rules & Community Guidelines
-We appreciate these things ✔️:
+We appreciate these things ✅:
 
 * No memes except Troll Face and the Sonic and Tails Dancing Memes
 * Viral animation except the official version of Animator vs. Animation V and Lush Caves (made by Alan Becker)
